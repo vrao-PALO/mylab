@@ -8,9 +8,9 @@ datasource db {
 }
 
 model Engagement {
-  id                String   @id @default(cuid())
+  id                String         @id @default(cuid())
   title             String
-  status            String   @default("Draft")
+  status            String         @default("Draft")
   engagementType    String
   industry          String
   businessObjective String
@@ -19,9 +19,53 @@ model Engagement {
   scopeJson         String
   inputsJson        String
   notes             String?
-  createdAt         DateTime @default(now())
-  updatedAt         DateTime @updatedAt
+  createdAt         DateTime       @default(now())
+  updatedAt         DateTime       @updatedAt
+  evidenceItems     EvidenceItem[]
+  riskItems         RiskItem[]
 
   @@index([createdAt])
+  @@index([status])
+}
+
+model EvidenceItem {
+  id             String     @id @default(cuid())
+  engagementId   String
+  engagement     Engagement @relation(fields: [engagementId], references: [id], onDelete: Cascade)
+  controlRef     String
+  category       String
+  title          String
+  description    String?
+  status         String     @default("Pending")
+  link           String?
+  notes          String?
+  dueDate        String?
+  createdAt      DateTime   @default(now())
+  updatedAt      DateTime   @updatedAt
+
+  @@index([engagementId])
+  @@index([status])
+}
+
+model RiskItem {
+  id             String     @id @default(cuid())
+  engagementId   String
+  engagement     Engagement @relation(fields: [engagementId], references: [id], onDelete: Cascade)
+  title          String
+  description    String?
+  severity       String
+  likelihood     String
+  impact         String
+  status         String     @default("Open")
+  owner          String?
+  asset          String?
+  isGoLiveBlocker Boolean   @default(false)
+  exceptionRecord String?
+  dueDate        String?
+  createdAt      DateTime   @default(now())
+  updatedAt      DateTime   @updatedAt
+
+  @@index([engagementId])
+  @@index([severity])
   @@index([status])
 }

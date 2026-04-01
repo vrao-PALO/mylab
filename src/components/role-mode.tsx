@@ -1,37 +1,66 @@
 "use client";
-
 import * as React from "react";
 
-type RoleMode = "Viewer" | "Editor";
+export type RoleMode = "Architect" | "Presales" | "Auditor";
 
-function getSavedMode(): RoleMode {
-  if (typeof window === "undefined") return "Viewer";
-  const saved = window.localStorage.getItem("sa-role-mode");
-  if (saved === "Viewer" || saved === "Editor") {
-    return saved;
-  }
-  return "Viewer";
+const ROLES: { value: RoleMode; label: string; description: string }[] = [
+  { value: "Architect", label: "Architect", description: "Security architecture, control mapping, risk assessment" },
+  { value: "Presales",  label: "Presales",  description: "Client briefings, FI/GovTech overlays, presales Q&A" },
+  { value: "Auditor",   label: "Auditor",   description: "Audit readiness, evidence collection, compliance gaps" },
+];
+
+const ROLE_KEY = "sa-role-mode";
+
+function getSavedRole(): RoleMode {
+  if (typeof window === "undefined") return "Architect";
+  const saved = window.localStorage.getItem(ROLE_KEY);
+  if (saved === "Architect" || saved === "Presales" || saved === "Auditor") return saved;
+  return "Architect";
+}
+
+// Context so any page can read the current role
+export const RoleContext = React.createContext<RoleMode>("Architect");
+
+export function useRole(): RoleMode {
+  return React.useContext(RoleContext);
+}
+
+export function RoleModeProvider({ children }: { children: React.ReactNode }) {
+  const [role, setRole] = React.useState<RoleMode>(getSavedRole);
+  React.useEffect(() => {
+    // Keep in sync if localStorage changes in another tab
+    const handler = () => setRole(getSavedRole());
+    window.addEventListener("storage", handler);
+    return () => window.removeEventListener("storage", handler);
+  }, []);
+  return <RoleContext.Provider value={role}>{children}</RoleContext.Provider>;
 }
 
 export function RoleModeSelector() {
-  const [mode, setMode] = React.useState<RoleMode>(getSavedMode);
+  const [role, setRole] = React.useState<RoleMode>(getSavedRole);
 
   function onChange(next: RoleMode) {
-    setMode(next);
-    window.localStorage.setItem("sa-role-mode", next);
+    setRole(next);
+    window.localStorage.setItem(ROLE_KEY, next);
+    // Dispatch storage event so provider picks it up in the same tab
+    window.dispatchEvent(new Event("storage"));
   }
 
+  const current = ROLES.find((r) => r.value === role)!;
+
   return (
-    <label className="flex items-center gap-2 rounded-md border border-[#b9c6da] bg-white px-3 py-1.5 text-sm text-[#1b355f]">
-      Role
-      <select
-        value={mode}
-        onChange={(e) => onChange(e.target.value as RoleMode)}
-        className="rounded border border-[#cfd8e6] bg-[#f8fbff] px-2 py-1 text-sm text-[#1b355f]"
-      >
-        <option value="Viewer">Viewer</option>
-        <option value="Editor">Editor</option>
+    <div className="flex items-center gap-2">
+      <div className={`rounded-full px-2 py-0.5 text-xs font-semibold border
+        ${role === "Auditor" ? "bg-amber-100 text-amber-700 border-amber-300" :
+          role === "Presales" ? "bg-purple-100 text-purple-700 border-purple-300" :
+          "bg-[#edf3fc] text-[#1f4f97] border-[#c9d5e6]"}`}>
+        {role}
+      </div>
+      <select value={role} onChange={(e) => onChange(e.target.value as RoleMode)}
+        title={current.description}
+        className="rounded-md border border-[#c9d5e6] bg-[#f8fbff] px-2 py-1 text-xs text-[#1b355f] focus:outline-none focus:ring-1 focus:ring-[#1f4f97]">
+        {ROLES.map((r) => <option key={r.value} value={r.value}>{r.label}</option>)}
       </select>
-    </label>
+    </div>
   );
 }
