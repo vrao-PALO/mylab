@@ -1,0 +1,27 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Engagement {
+  id                String   @id @default(cuid())
+  title             String
+  status            String   @default("Draft")
+  engagementType    String
+  industry          String
+  businessObjective String
+  timeline          String
+  intakeJson        String
+  scopeJson         String
+  inputsJson        String
+  notes             String?
+  createdAt         DateTime @default(now())
+  updatedAt         DateTime @updatedAt
+
+  @@index([createdAt])
+  @@index([status])
+}
