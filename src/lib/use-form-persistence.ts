@@ -1,8 +1,7 @@
-import { useEffect, useState } from "react";
+"use client";
 
-export function getFormStorageKey(key: string) {
-  return `form_${key}`;
-}
+import { useEffect, useState } from "react";
+import { getFormStorageKey } from "@/lib/storage-keys";
 
 type JsonPrimitive = string | number | boolean | null;
 type JsonValue = JsonPrimitive | JsonValue[] | { [key: string]: JsonValue };

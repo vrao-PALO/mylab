@@ -1,5 +1,5 @@
-﻿import type { RequirementIntake } from "@/types/domain";
-import { getFormStorageKey } from "@/lib/use-form-persistence";
+import type { RequirementIntake } from "@/types/domain";
+import { getFormStorageKey } from "@/lib/storage-keys";
 
 export type RoleMode = "Architect" | "Presales" | "Auditor";
 export type DataClass = "INTERNAL" | "CONFIDENTIAL" | "FINANCIAL" | "AUDIT" | "PII";
