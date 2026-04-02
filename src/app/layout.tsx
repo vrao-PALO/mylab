@@ -1,8 +1,6 @@
-﻿import type { Metadata } from "next";
+import type { Metadata } from "next";
 import "./globals.css";
-import { TopNav } from "@/components/top-nav";
-import { SecurityBanner } from "@/components/security-banner";
-import { RecentPinnedSidebar } from "@/components/recent-pinned-sidebar";
+import { AppShell } from "@/components/app-shell";
 
 export const metadata: Metadata = {
   title: "Security Architect Refresher",
@@ -12,23 +10,16 @@ export const metadata: Metadata = {
 
 export default function RootLayout({
   children,
-}: {
+}: Readonly<{
   children: React.ReactNode;
-}) {
+}>) {
   return (
     <html lang="en">
       <head>
         <meta name="theme-color" content="#1f2937" />
       </head>
       <body className="font-sans antialiased bg-gray-50">
-        <SecurityBanner />
-        <TopNav />
-        <div className="flex">
-          <RecentPinnedSidebar />
-          <main className="flex-1 max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-            {children}
-          </main>
-        </div>
+        <AppShell>{children}</AppShell>
       </body>
     </html>
   );

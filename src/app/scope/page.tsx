@@ -1,6 +1,9 @@
-﻿"use client";
-import { useState } from "react";
+"use client";
+
+import { useFormPersistence } from "@/lib/use-form-persistence";
 import { stories } from "@/lib/knowledge-base";
+import { EMPTY_SCOPE_STATE, type ScopeFormState } from "@/lib/workflow-state";
+import { useRole } from "@/components/role-mode";
 
 const story = stories.find((s) => s.id === "story-02")!;
 
@@ -14,22 +17,25 @@ const INDUSTRY_NOTES: Record<string, string> = {
   Generic: "Generic scope: customer portal, document workflows, SaaS integration exposure, and vendor access paths.",
 };
 
+const ROLE_NOTES = {
+  Architect: "Capture the real trust boundaries, environment split, and privileged paths. This page feeds control mapping and design review.",
+  Presales: "Keep the scope statement crisp and client-safe. Focus on assumptions, third-party boundaries, and what is explicitly out of scope.",
+  Auditor: "Document enough detail that another reviewer can test scope completeness and challenge unsupported exclusions.",
+} as const;
+
 export default function ScopePage() {
-  const [systems, setSystems] = useState("");
-  const [hosting, setHosting] = useState<string[]>([]);
-  const [envs, setEnvs] = useState<string[]>([]);
-  const [exposure, setExposure] = useState("");
-  const [roles, setRoles] = useState("");
-  const [dataDomains, setDataDomains] = useState("");
-  const [integrations, setIntegrations] = useState("");
-  const [outOfScope, setOutOfScope] = useState("");
-  const [thirdParty, setThirdParty] = useState("");
-  const [industry, setIndustry] = useState("Generic");
+  const role = useRole();
+  const [form, setForm] = useFormPersistence<ScopeFormState>("scope", EMPTY_SCOPE_STATE);
 
-  const toggle = <T extends string>(arr: T[], val: T, setter: (v: T[]) => void) =>
-    setter(arr.includes(val) ? arr.filter((x) => x !== val) : [...arr, val]);
+  const toggle = <T extends string>(arr: T[], val: T, key: keyof ScopeFormState) => {
+    setForm({
+      ...form,
+      [key]: arr.includes(val) ? arr.filter((item) => item !== val) : [...arr, val],
+    } as ScopeFormState);
+  };
 
-  const complete = systems && envs.length && roles && dataDomains && integrations;
+  const complete = Boolean(form.systems && form.environments.length && form.roles && form.dataDomains && form.integrations);
+  const showAcceptanceCriteria = role !== "Presales";
 
   return (
     <section className="space-y-5">
@@ -40,11 +46,14 @@ export default function ScopePage() {
             <p className="mt-1 text-sm text-[#33496f]">{story.goal}</p>
           </div>
           {complete && (
-            <span className="shrink-0 rounded-full bg-green-100 px-3 py-1 text-xs font-semibold text-green-700">✓ Baseline set</span>
+            <span className="shrink-0 rounded-full bg-green-100 px-3 py-1 text-xs font-semibold text-green-700">Baseline set</span>
           )}
         </div>
         <div className="mt-3 rounded-md bg-[#edf3fc] px-4 py-2 text-xs text-[#2a4a80]">
           <strong>Principle:</strong> {story.notes[3].content}
+        </div>
+        <div className="mt-3 rounded-md border border-[#d8e0ed] bg-[#f8fbff] px-4 py-3 text-xs text-[#33496f]">
+          <strong>{role} focus:</strong> {ROLE_NOTES[role]}
         </div>
       </header>
 
@@ -53,66 +62,70 @@ export default function ScopePage() {
           <h3 className="text-sm font-semibold uppercase tracking-[0.12em] text-[#3a5480]">Systems and environment</h3>
 
           <div>
-            <label className="block text-xs font-medium text-[#3a5480] mb-1">Systems in scope *</label>
+            <label className="mb-1 block text-xs font-medium text-[#3a5480]">Systems in scope *</label>
             <textarea
-              value={systems}
-              onChange={(e) => setSystems(e.target.value)}
+              value={form.systems}
+              onChange={(event) => setForm({ ...form, systems: event.target.value })}
               rows={2}
               placeholder="e.g. Customer portal API, Admin dashboard, ETL pipeline"
-              className="w-full rounded-md border border-[#c9d5e6] bg-[#f8fbff] px-3 py-2 text-sm text-[#1e3d6c] placeholder:text-[#8fa3c2] focus:outline-none focus:ring-2 focus:ring-[#1f4f97] resize-none"
+              className="w-full resize-none rounded-md border border-[#c9d5e6] bg-[#f8fbff] px-3 py-2 text-sm text-[#1e3d6c] placeholder:text-[#8fa3c2] focus:outline-none focus:ring-2 focus:ring-[#1f4f97]"
             />
           </div>
 
           <div>
-            <label className="block text-xs font-medium text-[#3a5480] mb-1">Hosting model</label>
-            <div className="flex gap-2 flex-wrap">
-              {HOSTING.map((h) => (
+            <label className="mb-1 block text-xs font-medium text-[#3a5480]">Hosting model</label>
+            <div className="flex flex-wrap gap-2">
+              {HOSTING.map((hosting) => (
                 <button
-                  key={h}
-                  onClick={() => toggle(hosting, h, setHosting)}
-                  className={`rounded-full px-3 py-1 text-xs font-medium border transition-colors ${
-                    hosting.includes(h)
+                  key={hosting}
+                  type="button"
+                  onClick={() => toggle(form.hosting, hosting, "hosting")}
+                  className={`rounded-full border px-3 py-1 text-xs font-medium transition-colors ${
+                    form.hosting.includes(hosting)
                       ? "bg-[#1f4f97] text-white border-[#1f4f97]"
                       : "bg-[#f8fbff] text-[#2a4a80] border-[#c9d5e6] hover:border-[#1f4f97]"
                   }`}
                 >
-                  {h}
+                  {hosting}
                 </button>
               ))}
             </div>
           </div>
 
           <div>
-            <label className="block text-xs font-medium text-[#3a5480] mb-1">Environments in scope *</label>
+            <label className="mb-1 block text-xs font-medium text-[#3a5480]">Environments in scope *</label>
             <div className="flex gap-2">
-              {ENVS.map((e) => (
+              {ENVS.map((environment) => (
                 <button
-                  key={e}
-                  onClick={() => toggle(envs, e, setEnvs)}
-                  className={`rounded-full px-3 py-1 text-xs font-medium border transition-colors uppercase ${
-                    envs.includes(e)
+                  key={environment}
+                  type="button"
+                  onClick={() => toggle(form.environments, environment, "environments")}
+                  className={`rounded-full border px-3 py-1 text-xs font-medium uppercase transition-colors ${
+                    form.environments.includes(environment)
                       ? "bg-[#1f4f97] text-white border-[#1f4f97]"
                       : "bg-[#f8fbff] text-[#2a4a80] border-[#c9d5e6] hover:border-[#1f4f97]"
                   }`}
                 >
-                  {e}
+                  {environment}
                 </button>
               ))}
             </div>
-            {envs.includes("dev") && envs.includes("prod") && (
-              <p className="mt-1 text-xs text-amber-600 font-medium">⚠ Dev and prod both in scope — confirm they are isolated with no direct access path.</p>
+            {form.environments.includes("dev") && form.environments.includes("prod") && (
+              <p className="mt-1 text-xs font-medium text-amber-600">Dev and prod are both in scope. Confirm they are isolated with no direct access path.</p>
             )}
           </div>
 
           <div>
-            <label className="block text-xs font-medium text-[#3a5480] mb-1">Internet exposure</label>
+            <label className="mb-1 block text-xs font-medium text-[#3a5480]">Internet exposure</label>
             <select
-              value={exposure}
-              onChange={(e) => setExposure(e.target.value)}
+              value={form.exposure}
+              onChange={(event) => setForm({ ...form, exposure: event.target.value })}
               className="w-full rounded-md border border-[#c9d5e6] bg-[#f8fbff] px-3 py-2 text-sm text-[#1e3d6c] focus:outline-none focus:ring-2 focus:ring-[#1f4f97]"
             >
-              <option value="">Select…</option>
-              {EXPOSURE.map((x) => <option key={x}>{x}</option>)}
+              <option value="">Select...</option>
+              {EXPOSURE.map((option) => (
+                <option key={option}>{option}</option>
+              ))}
             </select>
           </div>
         </article>
@@ -121,54 +134,54 @@ export default function ScopePage() {
           <h3 className="text-sm font-semibold uppercase tracking-[0.12em] text-[#3a5480]">Users, data and integrations</h3>
 
           <div>
-            <label className="block text-xs font-medium text-[#3a5480] mb-1">User roles *</label>
+            <label className="mb-1 block text-xs font-medium text-[#3a5480]">User roles *</label>
             <input
-              value={roles}
-              onChange={(e) => setRoles(e.target.value)}
+              value={form.roles}
+              onChange={(event) => setForm({ ...form, roles: event.target.value })}
               placeholder="e.g. End user, Admin, Support agent, Auditor"
               className="w-full rounded-md border border-[#c9d5e6] bg-[#f8fbff] px-3 py-2 text-sm text-[#1e3d6c] placeholder:text-[#8fa3c2] focus:outline-none focus:ring-2 focus:ring-[#1f4f97]"
             />
           </div>
 
           <div>
-            <label className="block text-xs font-medium text-[#3a5480] mb-1">Data domains *</label>
+            <label className="mb-1 block text-xs font-medium text-[#3a5480]">Data domains *</label>
             <input
-              value={dataDomains}
-              onChange={(e) => setDataDomains(e.target.value)}
+              value={form.dataDomains}
+              onChange={(event) => setForm({ ...form, dataDomains: event.target.value })}
               placeholder="e.g. PII, Financial, HR, Audit logs"
               className="w-full rounded-md border border-[#c9d5e6] bg-[#f8fbff] px-3 py-2 text-sm text-[#1e3d6c] placeholder:text-[#8fa3c2] focus:outline-none focus:ring-2 focus:ring-[#1f4f97]"
             />
           </div>
 
           <div>
-            <label className="block text-xs font-medium text-[#3a5480] mb-1">Integrations and third parties *</label>
+            <label className="mb-1 block text-xs font-medium text-[#3a5480]">Integrations and third parties *</label>
             <textarea
-              value={integrations}
-              onChange={(e) => setIntegrations(e.target.value)}
+              value={form.integrations}
+              onChange={(event) => setForm({ ...form, integrations: event.target.value })}
               rows={2}
               placeholder="e.g. Napta HR API, Azure AD, Stripe payment gateway"
-              className="w-full rounded-md border border-[#c9d5e6] bg-[#f8fbff] px-3 py-2 text-sm text-[#1e3d6c] placeholder:text-[#8fa3c2] focus:outline-none focus:ring-2 focus:ring-[#1f4f97] resize-none"
+              className="w-full resize-none rounded-md border border-[#c9d5e6] bg-[#f8fbff] px-3 py-2 text-sm text-[#1e3d6c] placeholder:text-[#8fa3c2] focus:outline-none focus:ring-2 focus:ring-[#1f4f97]"
             />
           </div>
 
           <div>
-            <label className="block text-xs font-medium text-[#3a5480] mb-1">Third-party / vendor boundaries</label>
+            <label className="mb-1 block text-xs font-medium text-[#3a5480]">Third-party and vendor boundaries</label>
             <input
-              value={thirdParty}
-              onChange={(e) => setThirdParty(e.target.value)}
+              value={form.thirdParty}
+              onChange={(event) => setForm({ ...form, thirdParty: event.target.value })}
               placeholder="e.g. Stripe scoped to payment flow only"
               className="w-full rounded-md border border-[#c9d5e6] bg-[#f8fbff] px-3 py-2 text-sm text-[#1e3d6c] placeholder:text-[#8fa3c2] focus:outline-none focus:ring-2 focus:ring-[#1f4f97]"
             />
           </div>
 
           <div>
-            <label className="block text-xs font-medium text-[#3a5480] mb-1">Out-of-scope items with rationale</label>
+            <label className="mb-1 block text-xs font-medium text-[#3a5480]">Out-of-scope items with rationale</label>
             <textarea
-              value={outOfScope}
-              onChange={(e) => setOutOfScope(e.target.value)}
+              value={form.outOfScope}
+              onChange={(event) => setForm({ ...form, outOfScope: event.target.value })}
               rows={2}
-              placeholder="e.g. Legacy billing system — decommissioned Q3 2026"
-              className="w-full rounded-md border border-[#c9d5e6] bg-[#f8fbff] px-3 py-2 text-sm text-[#1e3d6c] placeholder:text-[#8fa3c2] focus:outline-none focus:ring-2 focus:ring-[#1f4f97] resize-none"
+              placeholder="e.g. Legacy billing system - decommissioned Q3 2026"
+              className="w-full resize-none rounded-md border border-[#c9d5e6] bg-[#f8fbff] px-3 py-2 text-sm text-[#1e3d6c] placeholder:text-[#8fa3c2] focus:outline-none focus:ring-2 focus:ring-[#1f4f97]"
             />
           </div>
         </article>
@@ -177,30 +190,46 @@ export default function ScopePage() {
       <article className="rounded-xl border border-[#c9d5e6] bg-white p-5">
         <h3 className="mb-3 text-sm font-semibold uppercase tracking-[0.12em] text-[#3a5480]">Industry-specific scope note</h3>
         <div className="mb-3 flex gap-2">
-          {["FI", "GovTech", "Generic"].map((ind) => (
-            <button key={ind} onClick={() => setIndustry(ind)}
-              className={`rounded-full px-3 py-1 text-xs font-medium border transition-colors ${
-                industry === ind ? "bg-[#1f4f97] text-white border-[#1f4f97]" : "bg-[#f8fbff] text-[#2a4a80] border-[#c9d5e6] hover:border-[#1f4f97]"
+          {["FI", "GovTech", "Generic"].map((industry) => (
+            <button
+              key={industry}
+              type="button"
+              onClick={() => setForm({ ...form, industry })}
+              className={`rounded-full border px-3 py-1 text-xs font-medium transition-colors ${
+                form.industry === industry
+                  ? "bg-[#1f4f97] text-white border-[#1f4f97]"
+                  : "bg-[#f8fbff] text-[#2a4a80] border-[#c9d5e6] hover:border-[#1f4f97]"
               }`}
             >
-              {ind}
+              {industry}
             </button>
           ))}
         </div>
-        <p className="text-sm text-[#273f67]">{INDUSTRY_NOTES[industry]}</p>
+        <p className="text-sm text-[#273f67]">{INDUSTRY_NOTES[form.industry] ?? INDUSTRY_NOTES.Generic}</p>
       </article>
 
-      <article className="rounded-xl border border-[#c9d5e6] bg-white p-5">
-        <h3 className="mb-3 text-sm font-semibold uppercase tracking-[0.12em] text-[#3a5480]">Acceptance criteria</h3>
-        <ul className="space-y-1">
-          {story.acceptanceCriteria.map((ac) => (
-            <li key={ac.id} className="flex gap-2 text-sm text-[#273f67]">
-              <span className="text-green-600 shrink-0">✓</span>
-              <span>{ac.criterion}</span>
-            </li>
-          ))}
-        </ul>
-      </article>
+      {role === "Presales" ? (
+        <article className="rounded-xl border border-[#c9d5e6] bg-white p-5">
+          <h3 className="mb-3 text-sm font-semibold uppercase tracking-[0.12em] text-[#3a5480]">Presales framing</h3>
+          <ul className="space-y-1 text-sm text-[#273f67]">
+            <li>State the primary systems and environments without exposing internal-only implementation detail.</li>
+            <li>Call out any third-party boundary that requires client clarification or assumption sign-off.</li>
+            <li>Keep the out-of-scope statement explicit so residual pricing and liability stay bounded.</li>
+          </ul>
+        </article>
+      ) : (
+        <article className="rounded-xl border border-[#c9d5e6] bg-white p-5">
+          <h3 className="mb-3 text-sm font-semibold uppercase tracking-[0.12em] text-[#3a5480]">Acceptance criteria</h3>
+          <ul className="space-y-1">
+            {showAcceptanceCriteria && story.acceptanceCriteria.map((criterion) => (
+              <li key={criterion.id} className="flex gap-2 text-sm text-[#273f67]">
+                <span className="shrink-0 text-green-600">?</span>
+                <span>{criterion.criterion}</span>
+              </li>
+            ))}
+          </ul>
+        </article>
+      )}
     </section>
   );
 }

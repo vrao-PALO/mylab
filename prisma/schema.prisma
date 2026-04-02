@@ -1,4 +1,4 @@
-generator client {
+﻿generator client {
   provider = "prisma-client-js"
 }
 
@@ -18,6 +18,7 @@ model Engagement {
   intakeJson        String
   scopeJson         String
   inputsJson        String
+  workflowJson      String         @default("{}")
   notes             String?
   createdAt         DateTime       @default(now())
   updatedAt         DateTime       @updatedAt
@@ -48,22 +49,22 @@ model EvidenceItem {
 }
 
 model RiskItem {
-  id             String     @id @default(cuid())
-  engagementId   String
-  engagement     Engagement @relation(fields: [engagementId], references: [id], onDelete: Cascade)
-  title          String
-  description    String?
-  severity       String
-  likelihood     String
-  impact         String
-  status         String     @default("Open")
-  owner          String?
-  asset          String?
-  isGoLiveBlocker Boolean   @default(false)
+  id              String     @id @default(cuid())
+  engagementId    String
+  engagement      Engagement @relation(fields: [engagementId], references: [id], onDelete: Cascade)
+  title           String
+  description     String?
+  severity        String
+  likelihood      String
+  impact          String
+  status          String     @default("Open")
+  owner           String?
+  asset           String?
+  isGoLiveBlocker Boolean    @default(false)
   exceptionRecord String?
-  dueDate        String?
-  createdAt      DateTime   @default(now())
-  updatedAt      DateTime   @updatedAt
+  dueDate         String?
+  createdAt       DateTime   @default(now())
+  updatedAt       DateTime   @updatedAt
 
   @@index([engagementId])
   @@index([severity])
