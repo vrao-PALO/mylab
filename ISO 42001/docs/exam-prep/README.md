@@ -10,6 +10,7 @@ This folder contains revision material prepared from the Day 1 to Day 3 training
 4. [Activity to Exam Mapping](04-activity-to-exam-mapping.md)
 5. [2026 Web Research Update](05-web-research-2026.md)
 6. [Flashcards](06-flashcards.md)
+7. [One-Page Cram Sheet](07-one-page-cram-sheet.md)
 
 ## How to Use
 
@@ -22,5 +23,6 @@ This folder contains revision material prepared from the Day 1 to Day 3 training
 
 This pack is based on the current available material: Day 1 Session 3 and 4, Day 2, and Day 3.
 Day 4 and Day 5 can be added later as a second revision pass.
+
 
 
