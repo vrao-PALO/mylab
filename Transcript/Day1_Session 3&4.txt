@@ -1,0 +1,3726 @@
+[SABYASACHI MAHANTI] 18:03:05
+How are you now going to go back and see what I need to do to enforce these controllers, and then this control?
+
+[SABYASACHI MAHANTI] 18:03:12
+You'll not be able to do. So, PDCA…
+
+[SABYASACHI MAHANTI] 18:03:15
+Concepts of PDCA plan to check and act need to be applied.
+
+[SABYASACHI MAHANTI] 18:03:19
+In all processes within your organization.
+
+[SABYASACHI MAHANTI] 18:03:22
+Right? That is the set of expectations, right, of the ISO.
+
+[SABYASACHI MAHANTI] 18:03:27
+Okay, now coming back to this,
+
+[SABYASACHI MAHANTI] 18:03:30
+Clause 4, as you see, is by the name, context of organization.
+
+[SABYASACHI MAHANTI] 18:03:34
+So, once I have understood the context, then I have set up the…
+
+[SABYASACHI MAHANTI] 18:03:41
+Scope of the management system. So, in this case, the scope of AI, right, I need to define the scope.
+
+[SABYASACHI MAHANTI] 18:03:46
+And then I'll have to also establish the management system. So, management system will consist of what?
+
+[SABYASACHI MAHANTI] 18:03:53
+will consist of processes, policies, and measurements, and things like that, right? So that is why…
+
+[SABYASACHI MAHANTI] 18:03:57
+Class 4.4. So, at this point in time, because I don't have a lot of clarity,
+
+[SABYASACHI MAHANTI] 18:04:04
+In 4.4, what do I do?
+
+[SABYASACHI MAHANTI] 18:04:06
+I establish at a very high level,
+
+[SABYASACHI MAHANTI] 18:04:08
+What are my processes that
+
+[SABYASACHI MAHANTI] 18:04:11
+need to be defined. So I cannot define at this point in time, right? The full picture.
+
+[SABYASACHI MAHANTI] 18:04:17
+But then again, I do the PDC, right? So I come back and do this, complete this.
+
+[SABYASACHI MAHANTI] 18:04:21
+Now…
+
+[SABYASACHI MAHANTI] 18:04:23
+Can I go to my leadership?
+
+[SABYASACHI MAHANTI] 18:04:27
+Right? Without defining the scope, without knowing the context of the organization, can I go and ask my leadership to establish a policy?
+
+[SABYASACHI MAHANTI] 18:04:36
+Now, here again, pay attention to one thing.
+
+[SABYASACHI MAHANTI] 18:04:39
+Right? Who is responsible for establishing the policy?
+
+[SABYASACHI MAHANTI] 18:04:45
+So I'm going into the details of it, right?
+
+[SABYASACHI MAHANTI] 18:04:48
+Who is responsible for establishing the policy?
+
+[Shilpa Gethe] 18:04:53
+Topical management.
+
+[venugopal] 18:04:53
+Management.
+
+[Anish Melbin] 18:04:54
+of management.
+
+[Naushir Miraz] 18:04:56
+you might close.
+
+[SABYASACHI MAHANTI] 18:04:57
+Right? The word says top management, correct?
+
+[SABYASACHI MAHANTI] 18:05:02
+What is the definition of top management?
+
+[SABYASACHI MAHANTI] 18:05:05
+So, who is it?
+
+[SABYASACHI MAHANTI] 18:05:07
+Yes, please.
+
+[Shilpa Gethe] 18:05:11
+T-level executives.
+
+[venugopal] 18:05:11
+The board most of the times. sea level.
+
+[Naushir Miraz] 18:05:13
+DXO-level folks.
+
+[Naushir Miraz] 18:05:13
+the board, I don't know.
+
+[Unnikrishnan G] 18:05:15
+Who owns the ownership?
+
+[SABYASACHI MAHANTI] 18:05:18
+The ownership of the management system.
+
+[Unnikrishnan G] 18:05:21
+of the organization. Yeah.
+
+[SABYASACHI MAHANTI] 18:05:22
+Okay? So, is there any definition in ISO of the top management?
+
+[SABYASACHI MAHANTI] 18:05:30
+Did you see any definition?
+
+[SABYASACHI MAHANTI] 18:05:37
+ChatGPT will tell you, of course, unless you're aware.
+
+[Shilpa Gethe] 18:05:39
+So it's person or group of people who directs or controls an organization at the highest level.
+
+[SABYASACHI MAHANTI] 18:05:45
+Absolutely.
+
+[SABYASACHI MAHANTI] 18:05:48
+So, a talk management is a person or a group of people who…
+
+[SABYASACHI MAHANTI] 18:05:54
+Manages, sorry, controls and directs the organizations at the highest level. Now, pay attention to each word here, right?
+
+[SABYASACHI MAHANTI] 18:06:04
+It could be an individual or a group of people.
+
+[SABYASACHI MAHANTI] 18:06:06
+Who manages?
+
+[Unnikrishnan G] 18:06:07
+Nicole.
+
+[SABYASACHI MAHANTI] 18:06:09
+and directs the organization, or rather, controls the organizations at the highest level.
+
+[SABYASACHI MAHANTI] 18:06:15
+Right? So, in any organization, for that matter, who would that be?
+
+[SABYASACHI MAHANTI] 18:06:21
+Like you said, it should be the CXOs, right? Could be the board.
+
+[SABYASACHI MAHANTI] 18:06:26
+could be the MD, could be the CEO, it depends on the organization's definitions on, you know, some organization has got precedent, some organization will have a chairman, somebody will have a managing director.
+
+[SABYASACHI MAHANTI] 18:06:37
+But, irrespective of those definitions and roles, right?
+
+[SABYASACHI MAHANTI] 18:06:40
+What you need to pay attention here is the top management.
+
+[SABYASACHI MAHANTI] 18:06:43
+It does not say the CEO or the MD and all that, right?
+
+[SABYASACHI MAHANTI] 18:06:47
+Now, here also from our practical experience of auditing organization, we have seen all sorts of stories. We have seen
+
+[SABYASACHI MAHANTI] 18:06:55
+Like, um, you know, like, for example, in the IT department itself, four level from the head of the department has been made as the…
+
+[SABYASACHI MAHANTI] 18:07:02
+Uh, you know, the information security manager.
+
+[SABYASACHI MAHANTI] 18:07:06
+Right? When it can… it may work, I don't know, but you are not fully complying to the requirements of ISO.
+
+[SABYASACHI MAHANTI] 18:07:15
+Because a management system objectives are, as the name suggests, right?
+
+[SABYASACHI MAHANTI] 18:07:19
+It has to be of the management, right? So if the leadership cannot give a sense of direction to the rest of the organization, who else can be?
+
+[SABYASACHI MAHANTI] 18:07:28
+giving, right? So pay attention to the top… who is the top management, right? Uh, this is also a matter of…
+
+[SABYASACHI MAHANTI] 18:07:36
+You know, as I said, when you define the roles and responsibilities,
+
+[SABYASACHI MAHANTI] 18:07:39
+We have all sorts of experience, and I'm not getting into all those.
+
+[SABYASACHI MAHANTI] 18:07:43
+details, I can, you know, talk about effectiveness.
+
+[SABYASACHI MAHANTI] 18:07:47
+Um, and all that, right? When this is not considered correctly, what happens, right? What is the negative aspects of it?
+
+[SABYASACHI MAHANTI] 18:07:54
+So, top management is responsible for establishing the policy. Can you see that in 5.2?
+
+[SABYASACHI MAHANTI] 18:08:04
+No…
+
+[SABYASACHI MAHANTI] 18:08:05
+These are things that, if you can see here, top management shall demonstrate leadership. So, you will also find questions like,
+
+[SABYASACHI MAHANTI] 18:08:12
+Tell me, how does top management demonstrate leadership?
+
+[SABYASACHI MAHANTI] 18:08:19
+How are they going to be demonstrating leadership?
+
+[Shilpa Gethe] 18:08:24
+By having policies in place?
+
+[SABYASACHI MAHANTI] 18:08:28
+By establishing policies in… by establishing the policy itself?
+
+[SABYASACHI MAHANTI] 18:08:32
+Right? Is that what you are saying?
+
+[SABYASACHI MAHANTI] 18:08:36
+Okay? Fine.
+
+[SABYASACHI MAHANTI] 18:08:38
+Any other?
+
+[Naushir Miraz] 18:08:42
+innate.
+
+[SABYASACHI MAHANTI] 18:08:42
+So, you see, I'm highlighting already, right?
+
+[SABYASACHI MAHANTI] 18:08:47
+And remember…
+
+[SABYASACHI MAHANTI] 18:08:51
+Uh, you know, this is…
+
+[SABYASACHI MAHANTI] 18:08:52
+If you are an internal auditor,
+
+[SABYASACHI MAHANTI] 18:08:55
+This is not so much important from an implementer standpoint, but for a third-party certification body's auditor for us,
+
+[SABYASACHI MAHANTI] 18:09:02
+This is extremely important, this 5.1. So, if I'm…
+
+[SABYASACHI MAHANTI] 18:09:07
+doing a top management interview, right, which we do as part of our audit,
+
+[SABYASACHI MAHANTI] 18:09:13
+What am I going to look for?
+
+[SABYASACHI MAHANTI] 18:09:14
+From the top management, what am I going to discuss? I am not going to discuss about his business, correct? Maybe that will be part of the discussion.
+
+[SABYASACHI MAHANTI] 18:09:21
+But what else am I expecting as a third-party certification bodies auditor?
+
+[SABYASACHI MAHANTI] 18:09:28
+So I'm going to ask him this, right?
+
+[SABYASACHI MAHANTI] 18:09:31
+How would he, or how would she, you know, demonstrate
+
+[SABYASACHI MAHANTI] 18:09:38
+uh… leadership.
+
+[SABYASACHI MAHANTI] 18:09:40
+Sorry, and their commitment.
+
+[SABYASACHI MAHANTI] 18:09:43
+So, these are the… some of the things that you need to remember, right? What question will you ask, and all that, we'll probably talk
+
+[SABYASACHI MAHANTI] 18:09:50
+Later, we have some sessions on those, activities on those.
+
+[SABYASACHI MAHANTI] 18:09:54
+So, top management shall demonstrate leadership and commitment with respect to the management system by ensuring that the AI policy and objectives are established.
+
+[SABYASACHI MAHANTI] 18:10:04
+And our comparable with the strategic direction of the organization.
+
+[SABYASACHI MAHANTI] 18:10:08
+So, just internalize this, that a management system cannot be in isolation. It's not an afterthought.
+
+[SABYASACHI MAHANTI] 18:10:16
+Right? Unless you integrate, for example, a top management should clearly know
+
+[SABYASACHI MAHANTI] 18:10:21
+that if I don't have this management system, or if there is a security breach,
+
+[SABYASACHI MAHANTI] 18:10:25
+what it would mean to his or her business.
+
+[SABYASACHI MAHANTI] 18:10:28
+If the top management is not able to articulate that, right, there is a clear disconnect.
+
+[SABYASACHI MAHANTI] 18:10:34
+So this is an expectations of the ISO standard.
+
+[SABYASACHI MAHANTI] 18:10:38
+Right? It should be compatible with the strategic direction of the organization. Now, let's say…
+
+[SABYASACHI MAHANTI] 18:10:44
+If… if I am an healthcare organization,
+
+[SABYASACHI MAHANTI] 18:10:48
+And I know that the patient data bridge is a big thing. I might have to shut down my…
+
+[SABYASACHI MAHANTI] 18:10:54
+facility itself,
+
+[SABYASACHI MAHANTI] 18:10:57
+then what importance do I give to the protection of the privacy or protection of the data security in my organization, right? As a top management.
+
+[SABYASACHI MAHANTI] 18:11:05
+So that's where integrating the management system to the organized and strategic objective, right?
+
+[SABYASACHI MAHANTI] 18:11:11
+Ensuring that the integration of the AI management system requirements in through the organization's business process.
+
+[SABYASACHI MAHANTI] 18:11:17
+So, even today, for example, if I ask this question in terms of whose responsibility is information security,
+
+[SABYASACHI MAHANTI] 18:11:24
+Half of the, uh, you know, people would say,
+
+[SABYASACHI MAHANTI] 18:11:27
+Uh, it is, uh, security team's responsibility.
+
+[SABYASACHI MAHANTI] 18:11:30
+Which means that, culturally, it has not set in that information security is everybody's responsibility.
+
+[SABYASACHI MAHANTI] 18:11:36
+So the same way, if I ask these same questions with respect to AI,
+
+[SABYASACHI MAHANTI] 18:11:41
+Right? You should get a similar answer. It depends on what role I play in the organization, right? But it's certainly not the responsibility of a department or a function.
+
+[SABYASACHI MAHANTI] 18:11:51
+But it is the whole of the organization. Wherever I play a role in the AI management system.
+
+[SABYASACHI MAHANTI] 18:11:57
+Uh, communicating the importance of effective AI management and conforming to the AI management system requirements.
+
+[SABYASACHI MAHANTI] 18:12:05
+Ensuring that the management system achieves its objectives, uh, intended results, sorry,
+
+[SABYASACHI MAHANTI] 18:12:10
+Directing and supporting persons to contribute to the effectiveness.
+
+[SABYASACHI MAHANTI] 18:12:13
+Promoting continual improvement.
+
+[SABYASACHI MAHANTI] 18:12:16
+And you can… you can look at each one of these. How does the leadership promote continual improvement?
+
+[SABYASACHI MAHANTI] 18:12:22
+Right? You must have an answer for that.
+
+[SABYASACHI MAHANTI] 18:12:24
+Supporting other relevant roles to demonstrate their leadership, so you empower roles.
+
+[SABYASACHI MAHANTI] 18:12:29
+You delegate, you, uh, you know, as I said, you empower them to perform their duties and things like that, right? So that is the leadership and commitment.
+
+[SABYASACHI MAHANTI] 18:12:38
+And all this, when you are establishing a management system, you need to state this.
+
+[SABYASACHI MAHANTI] 18:12:43
+Right? By signing this particular, you know, the, uh…
+
+[SABYASACHI MAHANTI] 18:12:51
+document or the policy,
+
+[SABYASACHI MAHANTI] 18:12:53
+They are committing to it, right? So as long as you…
+
+[SABYASACHI MAHANTI] 18:12:55
+Uh, you know, sort of establish this, uh, through the top management, you will be fulfilling the requirement of the standard.
+
+[SABYASACHI MAHANTI] 18:13:04
+And then you, you know, sort of establish the policy itself, right? So in this case, it's the IMS policy.
+
+[SABYASACHI MAHANTI] 18:13:09
+Right? Uh, it says it should be appropriate to the purpose of the organization, it provides a framework for setting objectives.
+
+[SABYASACHI MAHANTI] 18:13:17
+It includes a commitment to meet the applicable requirements,
+
+[SABYASACHI MAHANTI] 18:13:21
+Includes a commitment to continual improvement of the management system,
+
+[SABYASACHI MAHANTI] 18:13:26
+And it should be available and all that.
+
+[SABYASACHI MAHANTI] 18:13:28
+Now, what do you think is the significance of this?
+
+[SABYASACHI MAHANTI] 18:13:35
+At this stage.
+
+[SABYASACHI MAHANTI] 18:13:38
+What are you… what are…
+
+[SABYASACHI MAHANTI] 18:13:40
+Uh, what are you going to do?
+
+[SABYASACHI MAHANTI] 18:13:43
+At the end of the day, remember, they are not going to write the policy.
+
+[SABYASACHI MAHANTI] 18:13:47
+So, for all you know, you may be writing the policy.
+
+[SABYASACHI MAHANTI] 18:13:51
+Right? So what are you looking at here? Provides a framework for setting AI objectives. What does it really mean?
+
+[Naushir Miraz] 18:13:59
+Looking at the context, kind of a context and a process to derive those AI objectives.
+
+[SABYASACHI MAHANTI] 18:14:06
+like what in this case, anything you want to say?
+
+[SABYASACHI MAHANTI] 18:14:09
+Any example you can give?
+
+[Unnikrishnan G] 18:14:18
+Planning.
+
+[SABYASACHI MAHANTI] 18:14:21
+planning?
+
+[SABYASACHI MAHANTI] 18:14:23
+So, it says provides the policy itself, right? When I look at AI policy statement, right?
+
+[SABYASACHI MAHANTI] 18:14:30
+You have been given already a sample. You may look at the sample also later.
+
+[SABYASACHI MAHANTI] 18:14:35
+Or no. But it says provides a framework for setting AI objectives.
+
+[SABYASACHI MAHANTI] 18:14:40
+Remember, I already have an objective of the management system, right?
+
+[SABYASACHI MAHANTI] 18:14:46
+So, in the context of my organization,
+
+[SABYASACHI MAHANTI] 18:14:49
+I have already kind of got an objective, right?
+
+[SABYASACHI MAHANTI] 18:14:53
+So here, I'm establishing the policy with that information.
+
+[SABYASACHI MAHANTI] 18:14:57
+And it says, provides a framework for AI objectives.
+
+[SABYASACHI MAHANTI] 18:15:00
+How do you interpret these requirements?
+
+[SABYASACHI MAHANTI] 18:15:05
+So it has to establish the base, right, for…
+
+[SABYASACHI MAHANTI] 18:15:08
+Anybody in the organization, let's say, tomorrow when you are
+
+[SABYASACHI MAHANTI] 18:15:13
+Implementing a control, a process, or a policy, or anything like that when you are developing, right?
+
+[SABYASACHI MAHANTI] 18:15:19
+It has to meet certain…
+
+[SABYASACHI MAHANTI] 18:15:22
+requirements, right? Certain objectives.
+
+[SABYASACHI MAHANTI] 18:15:23
+And what would be that objective?
+
+[SABYASACHI MAHANTI] 18:15:27
+What are the three things that we spoke about an AIMS objective could be?
+
+[venugopal] 18:15:33
+Effectiveness, fairness, and what was the last one?
+
+[SABYASACHI MAHANTI] 18:15:35
+So, could be that, right? So, in my AI policy, if I don't address them,
+
+[SABYASACHI MAHANTI] 18:15:41
+How would the rest of the organization know? Suppose if you are developing a password policy,
+
+[SABYASACHI MAHANTI] 18:15:45
+in the IT team.
+
+[SABYASACHI MAHANTI] 18:15:48
+You, when you develop a password policy, when you do not consider what is the overall objective in the policy itself,
+
+[SABYASACHI MAHANTI] 18:15:55
+Remember, AI policy I'm talking about. So,
+
+[SABYASACHI MAHANTI] 18:15:58
+What I'm talking about AI policy, and if you look at them password policy, it's called… it is called a topic-specific policy. I am talking about an AI policy that is applicable to the whole of the organization.
+
+[SABYASACHI MAHANTI] 18:16:10
+Right? And password policy is one of the…
+
+[SABYASACHI MAHANTI] 18:16:14
+Topic-specific policies, like one of the controls management policies, that is.
+
+[SABYASACHI MAHANTI] 18:16:18
+Right? So when I'm… when I'm developing that, I need to be able to overall link it to the…
+
+[SABYASACHI MAHANTI] 18:16:26
+Policy of the organization.
+
+[SABYASACHI MAHANTI] 18:16:28
+So, if you… if you see the, you know, if you see the sample that has been given to you,
+
+[SABYASACHI MAHANTI] 18:16:36
+Right? Of the policy.
+
+[SABYASACHI MAHANTI] 18:16:38
+So, it will be one of your, uh, of course, the requirement for a document review.
+
+[SABYASACHI MAHANTI] 18:16:46
+What do you see in that?
+
+[SABYASACHI MAHANTI] 18:16:52
+the policy.
+
+[SABYASACHI MAHANTI] 18:16:57
+There is a toolkit, right? I'm sure you have a… something called a toolkit, right?
+
+[venugopal] 18:17:02
+Okay.
+
+[SABYASACHI MAHANTI] 18:17:05
+So, in the toolkit, if you look at the policy document,
+
+[SABYASACHI MAHANTI] 18:17:11
+Document number 16.
+
+[SABYASACHI MAHANTI] 18:17:18
+Okay?
+
+[SABYASACHI MAHANTI] 18:17:24
+I'm just going to share that on the screen.
+
+[SABYASACHI MAHANTI] 18:17:39
+So this is the policy document, organize in AI Policy.
+
+[SABYASACHI MAHANTI] 18:17:43
+Now, all that, you know,
+
+[SABYASACHI MAHANTI] 18:17:45
+As part of your documented information structure, format, and all that, right?
+
+[SABYASACHI MAHANTI] 18:17:50
+What does it have? Uh…
+
+[SABYASACHI MAHANTI] 18:17:55
+Here is the starting of the policy statement, right? So, this is the policy that you expect your
+
+[SABYASACHI MAHANTI] 18:18:01
+Top management to sign. If you see here, on the first page, right, there is a signature.
+
+[SABYASACHI MAHANTI] 18:18:06
+And a date, right? So, the CEO has signed in this case.
+
+[SABYASACHI MAHANTI] 18:18:09
+And this is my policy statement.
+
+[SABYASACHI MAHANTI] 18:18:13
+Right. Everybody in the organization must be familiar with this policy statement, and then below, if you see, there are topic-specific policies.
+
+[SABYASACHI MAHANTI] 18:18:21
+Right? Like, you may have an acceptable use policy, responsible AI development and deployment policies, multiple policies like this, right? It depends.
+
+[SABYASACHI MAHANTI] 18:18:29
+on your needs, right?
+
+[SABYASACHI MAHANTI] 18:18:32
+And then it also talks about ethical considerations while developing AI.
+
+[SABYASACHI MAHANTI] 18:18:38
+Right? It talks about transparency, privacy, fairness, and accountability.
+
+[SABYASACHI MAHANTI] 18:18:43
+Right? AI development and deployments, stakeholder commitment, compliance and regulation.
+
+[SABYASACHI MAHANTI] 18:18:49
+Now, if you… if you look at some examples here,
+
+[SABYASACHI MAHANTI] 18:18:54
+Just the policy statement.
+
+[SABYASACHI MAHANTI] 18:18:56
+You see what it says?
+
+[SABYASACHI MAHANTI] 18:18:58
+that the organization is dedicated to developing and deploying artificial intelligence that is responsible
+
+[SABYASACHI MAHANTI] 18:19:05
+Ethically and socially beneficial when deployed.
+
+[SABYASACHI MAHANTI] 18:19:12
+Does this give us any information?
+
+[SABYASACHI MAHANTI] 18:19:18
+Does it give you a framework for…
+
+[SABYASACHI MAHANTI] 18:19:24
+Um, you know, setting objectives.
+
+[Anish Melbin] 18:19:28
+final statement.
+
+[SABYASACHI MAHANTI] 18:19:30
+Very high-level statement, but does it give you a direction or not? Suppose if this were not there.
+
+[SABYASACHI MAHANTI] 18:19:34
+Assume for a moment that this line was not there.
+
+[SABYASACHI MAHANTI] 18:19:39
+What it would have communicated to you.
+
+[SABYASACHI MAHANTI] 18:19:48
+Hey, it's okay.
+
+[Meghna Taneja] 18:19:48
+Third, the AI model being deployed, uh, that basically your AI model just needs to be developed and deployed, that's it.
+
+[SABYASACHI MAHANTI] 18:19:56
+So,
+
+[Meghna Taneja] 18:19:56
+But when we are caveats, like, responsible, ethical, and socially beneficial, we are, uh… Basically, uh, restricting it or adding the security aspects into it.
+
+[SABYASACHI MAHANTI] 18:20:11
+Correct. So, as an individual, let's say,
+
+[SABYASACHI MAHANTI] 18:20:14
+In an IT department, I have…
+
+[SABYASACHI MAHANTI] 18:20:17
+decided to deploy a chatbot, which is an AI.
+
+[SABYASACHI MAHANTI] 18:20:21
+mostly an LLM-based AI, right?
+
+[SABYASACHI MAHANTI] 18:20:25
+Now, while I am the IT department head, and I'm thinking of deploying a chatbot,
+
+[SABYASACHI MAHANTI] 18:20:32
+If I do not ask myself this question, that is this chatbot going to be…
+
+[SABYASACHI MAHANTI] 18:20:35
+Ethically right or responsible? Is it going to be beneficial, socially beneficial?
+
+[SABYASACHI MAHANTI] 18:20:41
+Well, when I start using this,
+
+[SABYASACHI MAHANTI] 18:20:45
+Now, in absence of this, I would not have done any one of those.
+
+[SABYASACHI MAHANTI] 18:20:51
+I would have thought, oh, okay, I'm supposed to develop a chatbot and deploy it, I have gone ahead and deployed it. Now you are telling me, oh, it should be socially responsible. Sorry, socially beneficial, it should be responsible and ethical.
+
+[SABYASACHI MAHANTI] 18:21:00
+So, everybody in the organization start using it,
+
+[SABYASACHI MAHANTI] 18:21:04
+And half of the time I don't even know as an employee what to do if I have a problem with IT.
+
+[SABYASACHI MAHANTI] 18:21:14
+Is it a responsible usage of AI?
+
+[SABYASACHI MAHANTI] 18:21:16
+No? So, see, this is what it means at a high level, you need to think of this way, right?
+
+[SABYASACHI MAHANTI] 18:21:20
+that this… this gives me a framework for setting objectives. You're not setting the objectives here itself.
+
+[SABYASACHI MAHANTI] 18:21:26
+But it gives you a indication that everything I want to do in this organization with respect to AI, it must be responsibly used, it must be ethically right, and it should be socially beneficial why and when you deploy the
+
+[SABYASACHI MAHANTI] 18:21:43
+Think of it, Anish, this way.
+
+[SABYASACHI MAHANTI] 18:21:45
+Remember I gave an earlier example, let's say if I…
+
+[SABYASACHI MAHANTI] 18:21:49
+decide to lay off 10%, bottom 10% of my organization.
+
+[SABYASACHI MAHANTI] 18:21:58
+Right? I am HR, and I have decided to…
+
+[SABYASACHI MAHANTI] 18:22:00
+After working with the top management, top management has given me a direction that the bottom 10% of my organization has to be laid off.
+
+[SABYASACHI MAHANTI] 18:22:08
+Right, and I have decided to use an AI.
+
+[SABYASACHI MAHANTI] 18:22:11
+I go back and look at performance of every individual for last 4 years, 5 years, and things like that.
+
+[SABYASACHI MAHANTI] 18:22:24
+And my AI makes that decision.
+
+[SABYASACHI MAHANTI] 18:22:24
+After the decision, I realized that a lot of the people that have been marked for
+
+[SABYASACHI MAHANTI] 18:22:28
+layoffs, they are actually not people, those who should be laid off.
+
+[SABYASACHI MAHANTI] 18:22:32
+Right? So AI made a wrong decision.
+
+[SABYASACHI MAHANTI] 18:22:36
+But if I would not have considered any one of those,
+
+[SABYASACHI MAHANTI] 18:22:41
+It would have been simply a deployment of an AI and ruthlessly remove people irrespective of whatever the…
+
+[SABYASACHI MAHANTI] 18:22:47
+outcome is?
+
+[SABYASACHI MAHANTI] 18:22:50
+Correct? Simpler way of looking at it.
+
+[Anish Melbin] 18:22:51
+Yeah.
+
+[SABYASACHI MAHANTI] 18:22:54
+So this is what it means, right? That it gives you a framework for…
+
+[SABYASACHI MAHANTI] 18:22:58
+Setting and objectives.
+
+[SABYASACHI MAHANTI] 18:23:03
+And I will tell you, we'll show you also, we have activities on this, don't worry.
+
+[SABYASACHI MAHANTI] 18:23:11
+You need to be able to link this to 9.1. Remember I talked about measurements?
+
+[SABYASACHI MAHANTI] 18:23:14
+And that's how I gave you a personal example.
+
+[SABYASACHI MAHANTI] 18:23:16
+That if you have an objective of saving
+
+[SABYASACHI MAHANTI] 18:23:17
+2 crores in 5 years.
+
+[SABYASACHI MAHANTI] 18:23:19
+Right? Then your KPI should be for 40K per month, and if you are not achieving that KPI,
+
+[SABYASACHI MAHANTI] 18:23:25
+then you will not achieve the 2 crores in 5 years.
+
+[SABYASACHI MAHANTI] 18:23:28
+Simple.
+
+[SABYASACHI MAHANTI] 18:23:30
+Right? So it's the same thing. If my measurements of the objectives are not in place,
+
+[SABYASACHI MAHANTI] 18:23:38
+then how will I achieve the objective of the management system?
+
+[SABYASACHI MAHANTI] 18:23:41
+And if I do not achieve the objective of the management system,
+
+[SABYASACHI MAHANTI] 18:23:45
+Suppose if I have a regulatory, uh, clampdown on me for usage of AI,
+
+[SABYASACHI MAHANTI] 18:23:53
+what it would mean for the company.
+
+[SABYASACHI MAHANTI] 18:23:56
+Maybe financial loss, maybe reputation loss, maybe a Tomorrow Times of India headlines, right? That the regulator has clamped down on XYZ company for its
+
+[SABYASACHI MAHANTI] 18:24:06
+Usage of unethical AI. What happens?
+
+[SABYASACHI MAHANTI] 18:24:09
+Right? So…
+
+[SABYASACHI MAHANTI] 18:24:15
+That's the correlation that we need to keep in mind in management system.
+
+[SABYASACHI MAHANTI] 18:24:18
+See, this is why what happens is that in a lot of our…
+
+[SABYASACHI MAHANTI] 18:24:24
+audits, right? I'm not talking for all auditors and in all audit scenarios, but…
+
+[SABYASACHI MAHANTI] 18:24:30
+This is what it should be done.
+
+[SABYASACHI MAHANTI] 18:24:32
+When I'm talking to the management,
+
+[SABYASACHI MAHANTI] 18:24:35
+Right? Top management. Top management must be clearly able to outline
+
+[SABYASACHI MAHANTI] 18:24:40
+how the implementation of the management system is benefiting them.
+
+[SABYASACHI MAHANTI] 18:24:44
+If they cannotrelate, trust me, there is a problem.
+
+[SABYASACHI MAHANTI] 18:24:48
+That means they don't see any value from the management system implementation.
+
+[SABYASACHI MAHANTI] 18:24:53
+And you know what the top managements are extremely smart people, right? If they don't see any value from the management system, what they will do?
+
+[SABYASACHI MAHANTI] 18:25:03
+Obviously, stepmotherly approach, right? No commitment.
+
+[SABYASACHI MAHANTI] 18:25:06
+You do it, it is your struggle, right?
+
+[SABYASACHI MAHANTI] 18:25:08
+This also happens in many organizations where…
+
+[SABYASACHI MAHANTI] 18:25:12
+A dysfunctional management system. There is a lot of documented management system, but when you look at the implementation of the controls,
+
+[SABYASACHI MAHANTI] 18:25:19
+They are not very effective.
+
+[SABYASACHI MAHANTI] 18:25:21
+So, this is the correlation, right? Please remember, I'm explaining this in great detail because
+
+[SABYASACHI MAHANTI] 18:25:26
+Once you understand this clause 4 to 10, it is same in all management systems, just that the subject changes, whether it is ISMS, PIMS,
+
+[SABYASACHI MAHANTI] 18:25:35
+QMS or AIMS?
+
+[SABYASACHI MAHANTI] 18:25:37
+Conceptually, they are the same.
+
+[SABYASACHI MAHANTI] 18:25:39
+Okay, so this is the correlation, right?
+
+[SABYASACHI MAHANTI] 18:25:44
+you know, remember, it does not stop here. It also goes on to say that we commit to comply with guidelines for trustworthy IA system as presented in the ISO 42000. So, that's a commitment clear.
+
+[SABYASACHI MAHANTI] 18:25:54
+The International Standard for Information Technology, so-and-so. We will embed principles, accountability, transparency, technical robustness, and societal well-being across our AI activities. These are all clear commitments of data management.
+
+[SABYASACHI MAHANTI] 18:26:09
+Right? Our cross-functional AI Ethics Review Board, so they have already established a review board for AI, ethical AI.
+
+[SABYASACHI MAHANTI] 18:26:17
+This is a highest level of commitment by the organization, right? That every AI that, before you develop and deploy, it has to be approved by the AI Ethics Board.
+
+[SABYASACHI MAHANTI] 18:26:28
+Right? Provides governance oversight while, uh, impact assessment and ongoing monitor… monitoring ensure the safety and fairness of operational system.
+
+[SABYASACHI MAHANTI] 18:26:39
+So, every word, if you see, right, it gives you enough
+
+[SABYASACHI MAHANTI] 18:26:44
+And more for every individual reading this policy.
+
+[SABYASACHI MAHANTI] 18:26:48
+As to what is the expected out of the management system.
+
+[SABYASACHI MAHANTI] 18:26:52
+Okay. And, kind of, this is kind of very well, uh, written sample policy for an organization.
+
+[SABYASACHI MAHANTI] 18:26:59
+Right? Um, in my personal experience, for example, I have seen
+
+[SABYASACHI MAHANTI] 18:27:04
+I'm talking about, again, again, an AI ISMS, because AIMS, we don't have too much of experience as of now of auditing other than internal auditings and things like that, right? Not many implementations and things like that. Everybody's waiting for
+
+[SABYASACHI MAHANTI] 18:27:17
+the popularity or the regulatory requirements and things like that. Those who need it are kind of getting
+
+[SABYASACHI MAHANTI] 18:27:24
+certified, right? Just like the 27701 NPIMS, right?
+
+[SABYASACHI MAHANTI] 18:27:28
+Wait and watch.
+
+[SABYASACHI MAHANTI] 18:27:30
+So, what we see there, um, in… in one or two cases I have seen that
+
+[SABYASACHI MAHANTI] 18:27:36
+The policy talks about only customer information. So, when I ask them,
+
+[SABYASACHI MAHANTI] 18:27:41
+Tell me, what happens to your supplier information, employee information, visitor information, every other information that you collect in the organization?
+
+[SABYASACHI MAHANTI] 18:27:49
+Are you telling me that your ISMS is only for the client information?
+
+[SABYASACHI MAHANTI] 18:27:53
+Very often, you will not find an answer.
+
+[SABYASACHI MAHANTI] 18:27:56
+Now, this is a very, very narrow approach, right, to information security.
+
+[SABYASACHI MAHANTI] 18:28:01
+How do I qualify 1 over the other? Are you telling me that a data breach of a customer
+
+[SABYASACHI MAHANTI] 18:28:07
+is only, you know, only impact to your organization, and if you have 20,000 employees, and if their employee information is breached about their health,
+
+[SABYASACHI MAHANTI] 18:28:16
+Uh, background verifications and their performance and salary and things like that. There is no impact to the organization.
+
+[SABYASACHI MAHANTI] 18:28:22
+So, if it is so, how does it not come into your policy?
+
+[SABYASACHI MAHANTI] 18:28:27
+that you are only talking about client information.
+
+[SABYASACHI MAHANTI] 18:28:30
+So, look, when I conduct an audit, I need to look at these aspects, correct? Similarly, when you implement the management system, if you are an implementer,
+
+[SABYASACHI MAHANTI] 18:28:39
+It's your job to ensure that it aligns with the organization's expectations.
+
+[SABYASACHI MAHANTI] 18:28:44
+Because everything that you'll write here will communicate either a good message or a bad message, or a ugly message, right, to the rest of the organization.
+
+[SABYASACHI MAHANTI] 18:28:53
+Yeah, we know you raised your hand?
+
+[venugopal] 18:28:57
+Uh, yes, I did. Kind of. You actually kind of answered that question. But I also wanted to expand on that of.
+
+[SABYASACHI MAHANTI] 18:29:05
+Yes, please.
+
+[venugopal] 18:29:08
+Now, is this some kind of a standard format that you are showing here that it is.
+
+[SABYASACHI MAHANTI] 18:29:13
+Yes.
+
+[venugopal] 18:29:15
+Ideally recommended to follow by any of the organization.
+
+[SABYASACHI MAHANTI] 18:29:18
+Absolutely. See, why did you give you that toolkit? The toolkit is for use to start using it. That's a template given to you. You can literally start setting up your management system by using all these 26 toolkits. We don't have any copyrights, though you will find things like this, right?
+
+[SABYASACHI MAHANTI] 18:29:35
+Uh, you know, things like this, right?
+
+[SABYASACHI MAHANTI] 18:29:39
+So, you have to be a little careful about the usage as it is, but it is given to you, so you can definitely build, uh, you know, your management system based on this.
+
+[venugopal] 18:29:49
+Sure. So I have a couple of questions on that. Now, there are 2 scenarios, right? One is where you are actually implementing these policies within your organization, and then you you are responsible for building it. Second is you're actually consulting another.
+
+[SABYASACHI MAHANTI] 18:29:53
+Yes, it is.
+
+[venugopal] 18:30:06
+organization, and they come to you and ask you to define these policies. Irrespective of that, now there are certain areas. Now, for example, in this policy statement, the fourth paragraph talks about ethics review board. Now, my organization is very small, and I know that there is no ethics review board.
+
+[venugopal] 18:30:24
+And I don't think anybody actually goes to that. And in scenarios like that, can I just obviously I just cannot blindly put that statement there, because that is a certain sense of responsibility for every word I put there, right? So how?
+
+[venugopal] 18:30:40
+How am I going to ensure that? Uh, and…
+
+[SABYASACHI MAHANTI] 18:30:44
+Yeah, I mean, see, there is no… there is no one measure for all, right? The ISO is applicable to every organization.
+
+[venugopal] 18:30:51
+Yes.
+
+[SABYASACHI MAHANTI] 18:30:53
+So, you need to look at what works for you, right?
+
+[SABYASACHI MAHANTI] 18:30:57
+Um, that's how it is, right? Uh, some organizations, the same thing is with the change control board also, right? For change management.
+
+[venugopal] 18:31:00
+Yeah.
+
+[SABYASACHI MAHANTI] 18:31:04
+Some organizations will have a CCB with some 20 people, for example.
+
+[SABYASACHI MAHANTI] 18:31:09
+I remember when I was part of a, you know, service delivery for a healthcare
+
+[SABYASACHI MAHANTI] 18:31:16
+client in the US, my change control mode was 120 people.
+
+[SABYASACHI MAHANTI] 18:31:21
+So you can imagine, right, 120 people have to agree on a call to deploy a change.
+
+[SABYASACHI MAHANTI] 18:31:27
+Now, uh, essentially,
+
+[venugopal] 18:31:27
+Hmm.
+
+[SABYASACHI MAHANTI] 18:31:29
+That rule doesn't apply in every situation. So,
+
+[SABYASACHI MAHANTI] 18:31:32
+Are you telling me that AI Ethics Review Board is a mandatory requirement? Go back to the standard. Does it say so?
+
+[SABYASACHI MAHANTI] 18:31:40
+No? Where does the standard say that he should have an ethics review board? But this organization is
+
+[SABYASACHI MAHANTI] 18:31:46
+trying to demonstrate
+
+[SABYASACHI MAHANTI] 18:31:48
+Right? Uh, that they give a lot of…
+
+[SABYASACHI MAHANTI] 18:31:52
+you know, weight… lot of weightage, lot of, uh, you know, values to the safe use of AI, responsible use of AI.
+
+[SABYASACHI MAHANTI] 18:31:59
+So that's their value system. Your organization's value system may be different, or your clients, uh, if you are a consultant, then your clients,
+
+[SABYASACHI MAHANTI] 18:32:08
+organization could be of, uh, you know, different size and complexity of different…
+
+[SABYASACHI MAHANTI] 18:32:13
+nature of business, right? Say, for example, in, uh, you know, Watson of IBM is generating a prescription for a patient versus the same Watson is being used to play
+
+[SABYASACHI MAHANTI] 18:32:24
+like the Deep Blue playing, uh, you know, chess.
+
+[SABYASACHI MAHANTI] 18:32:26
+Or it may be simply doing some other simple arithmetic or a calculation for another environment.
+
+[SABYASACHI MAHANTI] 18:32:32
+It cannot be the same, no? Because the criticality, complexity, the context is different. One is playing with the lives of people,
+
+[SABYASACHI MAHANTI] 18:32:40
+The other one is probably simply an entertainment, like playing a chess.
+
+[venugopal] 18:32:45
+Understood. Okay, sure.
+
+[SABYASACHI MAHANTI] 18:32:47
+Absolutely. So this is your job.
+
+[SABYASACHI MAHANTI] 18:32:51
+Uh, as the, you know, the…
+
+[SABYASACHI MAHANTI] 18:32:52
+what you call the implementer.
+
+[SABYASACHI MAHANTI] 18:32:56
+Um…
+
+[SABYASACHI MAHANTI] 18:32:57
+to look at the context of the organization, and then go back to your…
+
+[SABYASACHI MAHANTI] 18:33:01
+help your leadership to develop the policy.
+
+[venugopal] 18:33:05
+Yeah.
+
+[SABYASACHI MAHANTI] 18:33:05
+Right? It does not happen very often, it cannot happen without the management's involvement, right?
+
+[SABYASACHI MAHANTI] 18:33:12
+So even the CEO also is not going to just, like, their sign on something, right? He needs to be sure about what is committing on. So, this is given as a…
+
+[SABYASACHI MAHANTI] 18:33:21
+template sample. Uh, but yeah, you'll have to look at this and, you know, sort of customize for your need.
+
+[venugopal] 18:33:28
+Sure, understood. Thanks.
+
+[SABYASACHI MAHANTI] 18:33:29
+Just… just like I said that the number of policies also may vary, right? Here, if you see.
+
+[venugopal] 18:33:34
+Yeah.
+
+[SABYASACHI MAHANTI] 18:33:37
+Okay? Alright, so… any other?
+
+[SABYASACHI MAHANTI] 18:33:42
+Questions?
+
+[SABYASACHI MAHANTI] 18:33:50
+Okay, um…
+
+[SABYASACHI MAHANTI] 18:33:55
+So we will take a quick break, um…
+
+[SABYASACHI MAHANTI] 18:34:00
+And…
+
+[SABYASACHI MAHANTI] 18:34:03
+If, as I said, if you have…
+
+[SABYASACHI MAHANTI] 18:34:09
+time and energy, please go through some of the clauses.
+
+[SABYASACHI MAHANTI] 18:34:12
+of the ISO standard.
+
+[SABYASACHI MAHANTI] 18:34:14
+Right? It's not very different, uh, if you compare.
+
+[SABYASACHI MAHANTI] 18:34:19
+So, and the only way is to…
+
+[SABYASACHI MAHANTI] 18:34:21
+look at, uh… because in our business,
+
+[SABYASACHI MAHANTI] 18:34:27
+Right, of his third-party certification bodies.
+
+[SABYASACHI MAHANTI] 18:34:28
+If I raise a nonconformity based on my understanding, right, I could be in deep trouble.
+
+[SABYASACHI MAHANTI] 18:34:36
+So, unfortunately, I can't take that risk, right? So, every time that I raise a finding,
+
+[SABYASACHI MAHANTI] 18:34:41
+Not because I think so, right?
+
+[SABYASACHI MAHANTI] 18:34:43
+But because the standard says so, and this is what you have implemented, right?
+
+[SABYASACHI MAHANTI] 18:34:46
+So, any deviation from the standards requirement is a nonconformity.
+
+[SABYASACHI MAHANTI] 18:34:51
+Right? Uh, because that's the best practices as of now, you have accepted to get yourself certified against, right?
+
+[SABYASACHI MAHANTI] 18:34:59
+So, therefore, for us,
+
+[SABYASACHI MAHANTI] 18:35:01
+Reading and, uh, you know, interpreting the right way and making meaning is absolutely important, right? And so is for every one of us as professionals.
+
+[SABYASACHI MAHANTI] 18:35:11
+On the ISO standard, right? So the requirements have to be understood very clearly.
+
+[SABYASACHI MAHANTI] 18:35:17
+And, um, yes, clearly there is a flow between 4 and 10, as I said, and if we miss that flow, right?
+
+[SABYASACHI MAHANTI] 18:35:24
+Then we are going to be, uh, not effective.
+
+[SABYASACHI MAHANTI] 18:35:28
+There is going to be some trouble, you know, of the effectiveness of the whole management system itself.
+
+[SABYASACHI MAHANTI] 18:35:35
+Right? So let's take a 10 minutes break, uh, come back at 4.15.
+
+[SABYASACHI MAHANTI] 18:35:40
+And then we will, uh, continue with the rest of the clauses.
+
+[SABYASACHI MAHANTI] 18:35:49
+Um, again, as I said, we will kind of quickly run through now, because there are more details we'll be coming up in the next 3-4 days.
+
+[SABYASACHI MAHANTI] 18:35:56
+activity against each one of the clauses.
+
+[SABYASACHI MAHANTI] 18:35:58
+We'll have to be done, hmm?
+
+[SABYASACHI MAHANTI] 18:36:00
+Okay, so 10 minutes break and come back.
+
+[SABYASACHI MAHANTI] 18:36:03
+Thank you.
+
+[Niyati Gosalia] 18:36:07
+Thank
+
+[SABYASACHI MAHANTI] 18:48:37
+Okay, are you all back?
+
+[venugopal] 18:48:45
+Yes.
+
+[Anish Melbin] 18:48:47
+Yes
+
+[SABYASACHI MAHANTI] 18:48:48
+Okay, great.
+
+[SABYASACHI MAHANTI] 18:48:51
+So let's get going. Um, we were looking at…
+
+[SABYASACHI MAHANTI] 18:48:56
+The clause 5. So, clause 5, couple of things happens, right? Clearly, one is that there is a guideline for the leadership to…
+
+[SABYASACHI MAHANTI] 18:49:06
+look at where their commitment will be required, and then…
+
+[SABYASACHI MAHANTI] 18:49:09
+You have the AI policy itself that are being established, if you see here, right?
+
+[SABYASACHI MAHANTI] 18:49:16
+Um, and, and…
+
+[SABYASACHI MAHANTI] 18:49:17
+I mean, I lead, as I said, I leave some of this for you to also read and come back to me.
+
+[SABYASACHI MAHANTI] 18:49:23
+Um, but these are the requirements of a policy, right?
+
+[SABYASACHI MAHANTI] 18:49:26
+A, B, C, D. Uh, includes a commitment to meet applicable requirements, include a commitment to continual improvement, right?
+
+[SABYASACHI MAHANTI] 18:49:33
+Moving on to the 5.3 is roles, responsibilities, and authorities. So, in order to…
+
+[SABYASACHI MAHANTI] 18:49:40
+Manage the requirement of the policy, right?
+
+[SABYASACHI MAHANTI] 18:49:43
+You need relevant roles. So this is where you have the roles, responsibilities, and authorities.
+
+[SABYASACHI MAHANTI] 18:49:48
+Right? And here again, top management shall ensure that the responsibilities and authorities for the relevant roles are assigned and communicated within the organization.
+
+[SABYASACHI MAHANTI] 18:49:59
+Top management shall assign the responsibility and authority for ensuring that the AI management system conforms to the requirements of this document.
+
+[SABYASACHI MAHANTI] 18:50:08
+Reporting on the performance of the AI management system to the top management. So, who will do…
+
+[SABYASACHI MAHANTI] 18:50:14
+the reporting of the performance of the management to the top management. Top management is not going to be able to do the measuring performance, right?
+
+[SABYASACHI MAHANTI] 18:50:21
+So, who is that?
+
+[SABYASACHI MAHANTI] 18:50:23
+going to be able to do that, right?
+
+[SABYASACHI MAHANTI] 18:50:26
+the reporting on the performance of the AI management system to the top management.
+
+[SABYASACHI MAHANTI] 18:50:31
+Now, whichever way, right? Sometimes in information security, you call that as a chief information security officer.
+
+[SABYASACHI MAHANTI] 18:50:38
+In the PIMS, you may call it as a privacy office or a data privacy officer.
+
+[SABYASACHI MAHANTI] 18:50:43
+Right? Similarly, in AIMS, you need to think of someone, uh, whatever it may be, right?
+
+[SABYASACHI MAHANTI] 18:50:50
+would be mainly responsible for the performance of the management system, right? And clearly, reporting on the performance management system.
+
+[SABYASACHI MAHANTI] 18:50:58
+Right? Then comes the planning.
+
+[SABYASACHI MAHANTI] 18:51:01
+So, clause 6 is about planning. Now, planning is what here?
+
+[SABYASACHI MAHANTI] 18:51:06
+Clearly, planning is this clause is to
+
+[SABYASACHI MAHANTI] 18:51:11
+Identify and manage risk.
+
+[SABYASACHI MAHANTI] 18:51:14
+So it is not planning to execute my company's work, or planning to execute my job, right? But this planning is about…
+
+[SABYASACHI MAHANTI] 18:51:22
+Actions to address risk and opportunities. So, how I identify, how I manage my risk?
+
+[SABYASACHI MAHANTI] 18:51:30
+Right? And it has got few requirements here. I will highlight, of course, some of them.
+
+[SABYASACHI MAHANTI] 18:51:36
+Right? So if you see, when you…
+
+[SABYASACHI MAHANTI] 18:51:38
+looked at the 4.1 and 4.2,
+
+[SABYASACHI MAHANTI] 18:51:42
+How does that flow into…
+
+[SABYASACHI MAHANTI] 18:51:46
+identification of risk. So, Henny, if you see here,
+
+[SABYASACHI MAHANTI] 18:51:49
+Right? 6.1.1, it says, when planning for the AI management system,
+
+[SABYASACHI MAHANTI] 18:51:56
+The organization shall consider the issues referred to in the 4.1.
+
+[SABYASACHI MAHANTI] 18:52:00
+And the requirements referred to in 4.2.
+
+[SABYASACHI MAHANTI] 18:52:05
+So, there is a slightly different terminology, right? Here, they are not calling it as a interested parties' needs and expectations.
+
+[SABYASACHI MAHANTI] 18:52:12
+They are saying issues in 4.1, but when it comes to 4.2, they changed that from the interested parties' needs and expectations to the requirement.
+
+[SABYASACHI MAHANTI] 18:52:22
+So that is why I said that, what does it mean? It means that a requirement for a management system is only consisting of the interested parties needs and expectations.
+
+[SABYASACHI MAHANTI] 18:52:34
+It cannot be anything else, right? So, therefore, it refers to it as a requirements.
+
+[SABYASACHI MAHANTI] 18:52:39
+So, your requirements for a management system comes from the 4.2.
+
+[SABYASACHI MAHANTI] 18:52:44
+Right? And when is it… when… when planning for the AI management system, the organization shall consider this, right?
+
+[SABYASACHI MAHANTI] 18:52:52
+Give assurance that the management system can achieve its intended result, prevent or reduce undesired effect, achieve continual improvement. So, this is your correlation between the context and the risk assessment.
+
+[SABYASACHI MAHANTI] 18:53:04
+Right? So while the organization shall establish and maintain AI risk criteria that support distinguishing acceptable, uh,
+
+[SABYASACHI MAHANTI] 18:53:12
+from non-acceptable risk,
+
+[SABYASACHI MAHANTI] 18:53:15
+Performing AI risk assessment, conducting AI risk assessment, and assessing the… sorry, conducting AI risk treatment and assessing the AI risk impact.
+
+[SABYASACHI MAHANTI] 18:53:26
+Right? Uh, and then it also talks about few things like integrate and implement the actions into AI management system processes.
+
+[SABYASACHI MAHANTI] 18:53:35
+Right? Evaluate the effectiveness of this action. So, um…
+
+[SABYASACHI MAHANTI] 18:53:40
+you know, the process performance, right? Uh, actions to address the risk.
+
+[SABYASACHI MAHANTI] 18:53:45
+So if I'm addressing the risk by implementing a control, then obviously the performance of the
+
+[SABYASACHI MAHANTI] 18:53:51
+Controls and the processes need to be, uh, monitored.
+
+[SABYASACHI MAHANTI] 18:53:56
+And then it talks about AI risk assessment,
+
+[SABYASACHI MAHANTI] 18:53:58
+Uh, it talks about AI risk treatment, right?
+
+[SABYASACHI MAHANTI] 18:54:02
+So, if a risk is…
+
+[SABYASACHI MAHANTI] 18:54:05
+required to be treated.
+
+[SABYASACHI MAHANTI] 18:54:08
+Um, like you said, you know, sometimes a risk may be acceptable, right? So,
+
+[SABYASACHI MAHANTI] 18:54:13
+identification, analysis, and evaluation. Evaluation is where you decide
+
+[SABYASACHI MAHANTI] 18:54:18
+Um, you know, how is this going to impact my organization? And therefore, what kind of controls will I be implementing?
+
+[SABYASACHI MAHANTI] 18:54:28
+Right? So you do an identification of the risk at the high level in the…
+
+[SABYASACHI MAHANTI] 18:54:34
+Clause 4 and 4, 4.1 and 4.2, and then you bring that up into Clause 6, where you have identified the… you need to identify each one of the risks here.
+
+[SABYASACHI MAHANTI] 18:54:44
+And, uh, then look at… think of the treatment. So, if you see the outcome of this is what?
+
+[SABYASACHI MAHANTI] 18:54:52
+Outcome of clause 6 is?
+
+[SABYASACHI MAHANTI] 18:54:56
+They don't say risk register. If you see outcome of the clause 6 is the organization shall retain documented information about the AI risk assessment process.
+
+[SABYASACHI MAHANTI] 18:55:07
+So, how will I identify? How will I manage? How will I treat?
+
+[SABYASACHI MAHANTI] 18:55:11
+Right? That's the whole risk management process needs to be defined.
+
+[SABYASACHI MAHANTI] 18:55:14
+Right? It may include the risk register, but main, uh, expectation is the risk assessment process, which is
+
+[SABYASACHI MAHANTI] 18:55:22
+Little bigger than the register, right?
+
+[SABYASACHI MAHANTI] 18:55:24
+And then the treatment. So, while treating a risk…
+
+[SABYASACHI MAHANTI] 18:55:28
+Right? You consider the control from annex A, right? Just like, uh, ISO 27001. So, you consider the controls in an X A, and you have to treat the risk.
+
+[SABYASACHI MAHANTI] 18:55:39
+Alright? We'll go through the NXA, B, and C later. But there is a single annex here.
+
+[SABYASACHI MAHANTI] 18:55:47
+And, uh, Annex B is basically nothing but the guideline for Annex A. So, just like in ISO 27001, you have the Annex A controls.
+
+[SABYASACHI MAHANTI] 18:55:55
+And your 27,002 defines the guidelines for the controls.
+
+[SABYASACHI MAHANTI] 18:56:00
+Here, in this case, NXA are the controls.
+
+[SABYASACHI MAHANTI] 18:56:04
+And the next B are the guidelines for implementation of the controls, right? And then there is an NXC also, we'll take a look at what it is.
+
+[SABYASACHI MAHANTI] 18:56:11
+Right? And then you have to also create a statement of applicability.
+
+[SABYASACHI MAHANTI] 18:56:16
+Right? So, produce a statement of applicability.
+
+[SABYASACHI MAHANTI] 18:56:21
+What is the statement of applicability?
+
+[SABYASACHI MAHANTI] 18:56:25
+What does it do? What is the significance of the statement of applicability?
+
+[SABYASACHI MAHANTI] 18:56:31
+tell me in ISMS, if not aware of the AIMS.
+
+[SABYASACHI MAHANTI] 18:56:34
+What is the significance of a statement of applicability in ISMS?
+
+[SABYASACHI MAHANTI] 18:56:42
+Have you seen that statement of applicability anywhere? Did you get a chance to see?
+
+[SABYASACHI MAHANTI] 18:56:47
+It's sort of an organization?
+
+[Rajesh R] 18:56:50
+It confirms the controls of… which are available in the organization, which are applicable.
+
+[SABYASACHI MAHANTI] 18:56:55
+Okay, so it controls… sorry, it contains the…
+
+[SABYASACHI MAHANTI] 18:57:01
+Organizations, applicability of the controls, right?
+
+[Rajesh R] 18:57:05
+Yes.
+
+[SABYASACHI MAHANTI] 18:57:05
+Okay? So it, it, um, talks about controls that are applicable, it talks about the controls that are…
+
+[SABYASACHI MAHANTI] 18:57:12
+not applicable also, right?
+
+[Unnikrishnan G] 18:57:13
+implemented. Implemented. Implemented controls that we'll talk about. Yes.
+
+[Rajesh R] 18:57:14
+Okay.
+
+[SABYASACHI MAHANTI] 18:57:16
+Right? It talks about also the exclusion, correct?
+
+[Unnikrishnan G] 18:57:19
+Correct. Not applicable controls.
+
+[SABYASACHI MAHANTI] 18:57:22
+The controls that are not applicable.
+
+[SABYASACHI MAHANTI] 18:57:25
+So, when a control, uh, may be not applicable,
+
+[SABYASACHI MAHANTI] 18:57:32
+When can you think a control, uh…
+
+[SABYASACHI MAHANTI] 18:57:35
+Like, can you… have you come across a situation?
+
+[Anish Melbin] 18:57:38
+So, if it is, uh, out of scope of service, like, if the… if a company, like, there are totally work… or they are having work from home situation, and they are… doesn't have… The office, so, uh, like…
+
+[Unnikrishnan G] 18:57:51
+So…
+
+[Anish Melbin] 18:57:54
+biometrics, some… if it is not a… Not there. It is not applicable, sir, because all of them are working from home.
+
+[SABYASACHI MAHANTI] 18:57:57
+Hmm.
+
+[Unnikrishnan G] 18:57:58
+You have to…
+
+[Anish Melbin] 18:58:02
+That kind of scenarios.
+
+[SABYASACHI MAHANTI] 18:58:03
+So you are saying, uh, if all of them are working from home, then you may not need an access control system, is it?
+
+[Anish Melbin] 18:58:10
+Yeah, if there is no office.
+
+[SABYASACHI MAHANTI] 18:58:12
+If there is an office, okay?
+
+[SABYASACHI MAHANTI] 18:58:16
+Right?
+
+[SABYASACHI MAHANTI] 18:58:18
+So access when, in other words, what you are trying to do here?
+
+[SABYASACHI MAHANTI] 18:58:22
+If you look at slightly different way,
+
+[SABYASACHI MAHANTI] 18:58:25
+Then, when a control is required,
+
+[SABYASACHI MAHANTI] 18:58:30
+to trade a risk, right?
+
+[SABYASACHI MAHANTI] 18:58:33
+To mitigate a risk, right? To manage a risk, isn't it?
+
+[SABYASACHI MAHANTI] 18:58:37
+So if there is no risk,
+
+[SABYASACHI MAHANTI] 18:58:40
+then there is no control required.
+
+[SABYASACHI MAHANTI] 18:58:44
+Right? Okay.
+
+[Unnikrishnan G] 18:58:45
+Yes
+
+[SABYASACHI MAHANTI] 18:58:47
+Any other example?
+
+[SABYASACHI MAHANTI] 18:58:50
+I do remember.
+
+[SABYASACHI MAHANTI] 18:58:54
+Okay, so let's talk about one specific one, uh, and then…
+
+[SABYASACHI MAHANTI] 18:58:59
+Let me quickly try and see.
+
+[SABYASACHI MAHANTI] 18:59:06
+If I can share this here.
+
+[SABYASACHI MAHANTI] 18:59:10
+Just give me a moment.
+
+[SABYASACHI MAHANTI] 18:59:16
+Okay.
+
+[SABYASACHI MAHANTI] 18:59:30
+So, I'm going back again…
+
+[SABYASACHI MAHANTI] 18:59:32
+Just for understanding, and then we'll…
+
+[SABYASACHI MAHANTI] 18:59:34
+Consider the AIMS. Now, tell me…
+
+[SABYASACHI MAHANTI] 18:59:38
+When can I exclude this control?
+
+[SABYASACHI MAHANTI] 18:59:46
+Can this control be excluded by an organization?
+
+[Anish Melbin] 18:59:54
+They are not developing a software.
+
+[SABYASACHI MAHANTI] 18:59:58
+So, Anish is saying when the organization is not developing a software, this control is not applicable.
+
+[Anish Melbin] 19:00:00
+application.
+
+[Shilpa Gethe] 19:00:08
+But if we are using it, then…
+
+[Shilpa Gethe] 19:00:11
+It will still be applicable.
+
+[Anish Melbin] 19:00:12
+Varying applications.
+
+[SABYASACHI MAHANTI] 19:00:15
+Okay? So, Shilpa?
+
+[SABYASACHI MAHANTI] 19:00:17
+You have a question. If you are using…
+
+[Shilpa Gethe] 19:00:22
+We are like, uh…
+
+[SABYASACHI MAHANTI] 19:00:23
+Now, how about that? I may not be developing, but I might be using a…
+
+[SABYASACHI MAHANTI] 19:00:27
+an application.
+
+[Niyati Gosalia] 19:00:27
+But it's saying specific to developing or acquiring. So, if… We are not doing either. In that case, will it not be applicable?
+
+[SABYASACHI MAHANTI] 19:00:40
+Okay, great, good point, but now tell me an organization where you think that this control is not applicable, that you know of,
+
+[Unnikrishnan G] 19:00:56
+Health service?
+
+[Niyati Gosalia] 19:00:56
+Like, I'm not sure if Salesforce is the right example, but say that the application will still be owned by them, but… Yeah, not specific to the entity in… in scope.
+
+[Rajesh R] 19:01:07
+requirement… recruitment service.
+
+[SABYASACHI MAHANTI] 19:01:12
+Okay, somebody is saying recruitment services. Hmm?
+
+[Rajesh R] 19:01:16
+Yes.
+
+[SABYASACHI MAHANTI] 19:01:16
+So, what does it say that this control is applicable to information security requirements shall be identified, specified, and approved when developing
+
+[SABYASACHI MAHANTI] 19:01:27
+or acquiring applications.
+
+[SABYASACHI MAHANTI] 19:01:28
+So either you buy…
+
+[SABYASACHI MAHANTI] 19:01:32
+audio developer.
+
+[SABYASACHI MAHANTI] 19:01:33
+Correct? By meaning?
+
+[SABYASACHI MAHANTI] 19:01:36
+You may be not buying, meaning, you know, it is not like an exclusive rights only, right? You're buying the services.
+
+[SABYASACHI MAHANTI] 19:01:44
+Like, you know, I buy the services of Salesforce.
+
+[SABYASACHI MAHANTI] 19:01:49
+Right? For my sales process automation, I'm using their, uh… SaaS version of the CRM.
+
+[SABYASACHI MAHANTI] 19:01:58
+Alright, now, should I be… should I… should it not be applicable in that case, if I'm using Salesforce, uh, in my organization? I'm not developing that, right?
+
+[SABYASACHI MAHANTI] 19:02:09
+Nauseous organization is developing that. They are responsible.
+
+[SABYASACHI MAHANTI] 19:02:15
+So, is it not applicable in that scenario?
+
+[Naushir Miraz] 19:02:18
+It is… you will still have some responsibilities to take care.
+
+[Unnikrishnan G] 19:02:22
+Yeah, segregation of TTS access review.
+
+[SABYASACHI MAHANTI] 19:02:24
+So what… what I would ask Salesforce is that, hey,
+
+[SABYASACHI MAHANTI] 19:02:28
+Can you show me the vulnerability of the applications that you are hosting on the cloud, how it is tested?
+
+[SABYASACHI MAHANTI] 19:02:36
+Or may I know what is the, uh, probably known defects that you have, known vulnerabilities that you have in the deployed environment?
+
+[SABYASACHI MAHANTI] 19:02:43
+Now, it's up to them. In terms of what kind of contractual obligation that you have signed up with Salesforce, correct?
+
+[Unnikrishnan G] 19:02:47
+Correct. Kind of… It's applicable.
+
+[SABYASACHI MAHANTI] 19:02:51
+But, is it applicable or not?
+
+[SABYASACHI MAHANTI] 19:02:58
+Right? Why I'm sharing this is that, again, I can tell you our experience, right? A lot of the time, both as a technical reviewer and as an auditor, I've seen that
+
+[SABYASACHI MAHANTI] 19:03:07
+Auditors are happily accepting this and coming back, and saying that, oh, this is not applicable to the organization, or dictator definitely have decided, right? They have implemented the management system.
+
+[SABYASACHI MAHANTI] 19:03:17
+So, they have already excluded. Now, you are in an audit, what can you do?
+
+[SABYASACHI MAHANTI] 19:03:21
+Right? Now, my question to you is that, can you show me a one organization in this world that you know of,
+
+[SABYASACHI MAHANTI] 19:03:28
+Just like my earlier AI question, right? Where either they're not developing a software, or they are not using a software.
+
+[SABYASACHI MAHANTI] 19:03:35
+Can you think of?
+
+[SABYASACHI MAHANTI] 19:03:38
+Now, I know one of you, I think Rajesh was talking about a recruitment company.
+
+[SABYASACHI MAHANTI] 19:03:43
+Is the recruitment company using an email service?
+
+[SABYASACHI MAHANTI] 19:03:48
+So, how about the security of the email service?
+
+[SABYASACHI MAHANTI] 19:03:53
+Who will define that?
+
+[SABYASACHI MAHANTI] 19:03:55
+I'm sorry?
+
+[SABYASACHI MAHANTI] 19:03:58
+Can I say that again, Rajesh?
+
+[Rajesh R] 19:04:02
+No, like, it's an encryption…
+
+[SABYASACHI MAHANTI] 19:04:05
+So, it's a requirement, right? Look, even if it is an email service, using which I am…
+
+[SABYASACHI MAHANTI] 19:04:11
+Exchanging tons and tons of probably background verification information, probably offer letters, probably resumes, right?
+
+[SABYASACHI MAHANTI] 19:04:19
+Uh, a lot of certificates and all that, probably with potential candidates. I'm just making some assumptions. Maybe it may not be all of this.
+
+[SABYASACHI MAHANTI] 19:04:27
+But resume itself is a, you know, is a very highly confidential information, because it has got everything. Lot of people will write their date of birth, marital status, and passport number, and things like that.
+
+[SABYASACHI MAHANTI] 19:04:38
+Though it is necessary or not, I do not know.
+
+[SABYASACHI MAHANTI] 19:04:41
+But a resume being exchanged over the email
+
+[SABYASACHI MAHANTI] 19:04:46
+Should that email service be a safer email, secured email service?
+
+[SABYASACHI MAHANTI] 19:04:54
+Or I can go to any XYZ and take email services.
+
+[SABYASACHI MAHANTI] 19:04:59
+You probably can, what stops you?
+
+[SABYASACHI MAHANTI] 19:05:02
+But that's not a great example of…
+
+[SABYASACHI MAHANTI] 19:05:04
+Providing security.
+
+[SABYASACHI MAHANTI] 19:05:11
+Correct, no? So, think of this, again, you may not find an organization where there's control
+
+[SABYASACHI MAHANTI] 19:05:17
+is not applicable. I can tell you from our experience standpoint, almost 5%
+
+[SABYASACHI MAHANTI] 19:05:23
+to 10% of all the certificates that we issue, right? The client will claim an exclusion of this control.
+
+[SABYASACHI MAHANTI] 19:05:29
+So that, you know, the… again, it is…
+
+[SABYASACHI MAHANTI] 19:05:33
+My understanding is that
+
+[SABYASACHI MAHANTI] 19:05:47
+It's an interpretation issue, because this control comes…
+
+[SABYASACHI MAHANTI] 19:06:09
+Within… it is like, you know, somehow, I don't hidden between the…
+
+[SABYASACHI MAHANTI] 19:06:09
+Uh, software development lifecycle. Therefore, our first interpretation is that it is applicable to organizations that are doing software development.
+
+[SABYASACHI MAHANTI] 19:06:10
+But if you read, right, like, you read it rightly,
+
+[SABYASACHI MAHANTI] 19:06:10
+that it said, information security requirement shall be identified, specified, and approved.
+
+[SABYASACHI MAHANTI] 19:06:10
+Obviously, all those controls, I am only responsible for the security of the application, but if I'm not developing,
+
+[SABYASACHI MAHANTI] 19:06:10
+When developing or acquiring an application. So, if I'm developing,
+
+[SABYASACHI MAHANTI] 19:06:14
+I am buying services from somebody,
+
+[SABYASACHI MAHANTI] 19:06:16
+Then I need to ensure that my supply is responsible for the security of the application. But I need to know.
+
+[SABYASACHI MAHANTI] 19:06:23
+So, how I need to know is by implementing 8.26.
+
+[SABYASACHI MAHANTI] 19:06:29
+So, I'm either
+
+[SABYASACHI MAHANTI] 19:09:47
+So, as a certification body, the decision to certify you is with us and not with the client.
+
+[SABYASACHI MAHANTI] 19:09:54
+Correct? So if I have to make a decision to certify…
+
+[SABYASACHI MAHANTI] 19:09:59
+I need to ensure that you are meeting the requirement of the standard, right?
+
+[SABYASACHI MAHANTI] 19:10:06
+So, if you have excluded a control,
+
+[venugopal] 19:10:07
+Okay.
+
+[SABYASACHI MAHANTI] 19:10:09
+Because you cannot implement it, I may decide not to certify you.
+
+[SABYASACHI MAHANTI] 19:10:15
+Correct. Because I don't have any other, any other, uh, any other obligations.
+
+[venugopal] 19:10:16
+Okay.
+
+[SABYASACHI MAHANTI] 19:10:20
+I may decide, uh, to raise a major nonconformity and, uh, leave it there.
+
+[SABYASACHI MAHANTI] 19:10:27
+If you cannot close the major non-conformity, you may not get certified in the initial stage.
+
+[SABYASACHI MAHANTI] 19:10:32
+In the… suppose if I have this, uh, you know, in the middle of a CAV cycle and all that, which is very unfortunate, that should not happen that way, because the initial auditor probably has
+
+[SABYASACHI MAHANTI] 19:10:42
+messed it up, right? Uh, so in that case, uh, the… I'll do the same thing. I will raise a major nonconformity. You have 90 days to close this.
+
+[SABYASACHI MAHANTI] 19:10:52
+Uh, if you fail to close the finding, then your certificate will get automatically suspended and canceled.
+
+[venugopal] 19:11:01
+Hmm, okay. Yeah.
+
+[SABYASACHI MAHANTI] 19:11:01
+So I don't worry much about, uh, you know, of course, we work with the client, but
+
+[SABYASACHI MAHANTI] 19:11:07
+If an application… if a control is applicable because there is a risk,
+
+[SABYASACHI MAHANTI] 19:11:16
+Right? See, sometimes it is a black and white, right? For example,
+
+[SABYASACHI MAHANTI] 19:11:16
+8.28.
+
+[SABYASACHI MAHANTI] 19:11:18
+If I'm not developing a software, there is no question of secure coding.
+
+[SABYASACHI MAHANTI] 19:11:22
+Now, this is applicable to my supply.
+
+[venugopal] 19:11:23
+Yes.
+
+[SABYASACHI MAHANTI] 19:11:26
+So, if my supplier is developing this software, or if I am outsourcing the software development to a supplier, then these controls will be in my contract with the supply.
+
+[SABYASACHI MAHANTI] 19:11:36
+I must specify them. I cannot generally… look, that will come a little later in TPRM, what do we typically do, what is good or what is bad. If you just put a confidentiality clause in your supplier contract, uh, whom you are outsourcing a software development is not enough.
+
+[SABYASACHI MAHANTI] 19:11:51
+Right? So, uh, the… I am the risk owner as an organization, getting certified,
+
+[SABYASACHI MAHANTI] 19:11:59
+And my control owners could be a supplier.
+
+[SABYASACHI MAHANTI] 19:12:02
+So unless, until I put that in my contract, how will my supplier would know that they have to implement this control?
+
+[SABYASACHI MAHANTI] 19:12:09
+And then, after putting this in the contract is also not enough, so I need to audit my supplier to see whether they are
+
+[SABYASACHI MAHANTI] 19:12:15
+Control is performing or not?
+
+[SABYASACHI MAHANTI] 19:12:17
+So I do supplier audits, right?
+
+[SABYASACHI MAHANTI] 19:12:20
+So, some of these controls are black and white. Either you have… either you need it or you don't, right? Like, if you are not a…
+
+[venugopal] 19:12:21
+Hmm.
+
+[SABYASACHI MAHANTI] 19:12:28
+If you are not getting software developed by…
+
+[SABYASACHI MAHANTI] 19:12:32
+a vendor, then the secure coding is not applicable. It's never applicable.
+
+[SABYASACHI MAHANTI] 19:12:36
+But application security is applicable whether you develop yourself or whether you buy services from somebody.
+
+[SABYASACHI MAHANTI] 19:12:44
+Right, let's say if BSI outsources its payroll processing,
+
+[SABYASACHI MAHANTI] 19:12:50
+to an XYZ, which we do.
+
+[SABYASACHI MAHANTI] 19:12:52
+Right? Then I, uh, I, as an employee, I should be worried that my data can be misused by that vendor.
+
+[SABYASACHI MAHANTI] 19:12:58
+So, therefore, it is a worry of BSI that all the security controls are implemented by the vendor of BSI.
+
+[SABYASACHI MAHANTI] 19:13:06
+The same way is for background verification partner, same way is for data services partner, same way is for cloud services partner.
+
+[SABYASACHI MAHANTI] 19:13:13
+All these are similar.
+
+[venugopal] 19:13:14
+Yeah, so in such cases, right? Now, say, if it is a Sas or a pass that I'm actually using where you have these big service providers right now. I'm only using their services there, and I need to pass my.
+
+[SABYASACHI MAHANTI] 19:13:17
+Yes.
+
+[SABYASACHI MAHANTI] 19:13:21
+Yeah.
+
+[SABYASACHI MAHANTI] 19:13:25
+Yep.
+
+[venugopal] 19:13:32
+2,700 for whatever reasons, right? In some cases, as you as an auditor, would you go, uh, perform an audit on there, or you just take, okay, they already have… I'm sure they would definitely have their 2700 audits and all that, so you just review that.
+
+[SABYASACHI MAHANTI] 19:13:35
+Yeah.
+
+[SABYASACHI MAHANTI] 19:13:45
+Good question.
+
+[venugopal] 19:13:49
+State that, okay, on this particular audit, this action, they've clearly mentioned it's there, and then I pass it.
+
+[SABYASACHI MAHANTI] 19:13:54
+Yeah, that could be our skin in the game, right? So we don't know. There is no single answer, sir.
+
+[SABYASACHI MAHANTI] 19:13:59
+Uh, all I would say is that if I'm not happy,
+
+[SABYASACHI MAHANTI] 19:14:03
+Uh, if I see that you have done enough audit of your supplier, and you have got even a second party done by another supplier, let's say you have engaged DUI to get your supplier audited,
+
+[SABYASACHI MAHANTI] 19:14:16
+Right? I may be happy about it, but let's say, you know, if I see… I don't… I mean, by default, we do an audit of supplier also, depending on the requirement. So, say, for example,
+
+[SABYASACHI MAHANTI] 19:14:25
+If you are storing your documents or a backup coffee off-site with an Iron Mountain, let's say, I may go and visit the Iron Mountain to see how they manage your controls as far as you are concerned.
+
+[SABYASACHI MAHANTI] 19:14:37
+Similarly, uh, in India, what we do for a bank is supposed to be hosting their
+
+[SABYASACHI MAHANTI] 19:14:43
+their server, one of their data servers or application servers,
+
+[SABYASACHI MAHANTI] 19:14:48
+They are not supposed to outsource to the cloud, but they are supposed to be hosting one of their
+
+[SABYASACHI MAHANTI] 19:14:53
+Uh, production server in a third-party location, which means that it's only the, you know, the utility infrastructure provided by a third-party data center provider.
+
+[SABYASACHI MAHANTI] 19:15:04
+So, we go to that data center and audit. We audit both parties. We audit the bank as well as the data center services provider.
+
+[SABYASACHI MAHANTI] 19:15:14
+The basic concept is very simple.
+
+[SABYASACHI MAHANTI] 19:15:17
+Right? If there is a risk, there is a control.
+
+[SABYASACHI MAHANTI] 19:15:21
+Right? Required. Now…
+
+[SABYASACHI MAHANTI] 19:15:24
+Is it mandatory that the risk owner is the control owner?
+
+[SABYASACHI MAHANTI] 19:15:28
+No. Why should it be?
+
+[SABYASACHI MAHANTI] 19:15:29
+So, risk owner, uh, is… a control owner can be different than the risk owner.
+
+[SABYASACHI MAHANTI] 19:15:34
+So, if there is no governance between the risk owner and the control owner, how do you know that the control is fulfilling the…
+
+[SABYASACHI MAHANTI] 19:15:43
+objective and reducing the risk.
+
+[SABYASACHI MAHANTI] 19:15:46
+You don't know. So, therefore, there is a governance required. So, therefore, you go and audit your supplier.
+
+[SABYASACHI MAHANTI] 19:15:52
+So, when it comes to… remember, when it comes to cloud services provider?
+
+[SABYASACHI MAHANTI] 19:15:58
+That's a little tricky zone. For example, if you are a…
+
+[SABYASACHI MAHANTI] 19:16:03
+very small player for…
+
+[SABYASACHI MAHANTI] 19:16:06
+You know, people like Salesforce or, for example, AWS, they also go, I don't need you. I can't, you know, I can't allow you to audit me, right?
+
+[SABYASACHI MAHANTI] 19:16:12
+But if you are, like, a Platinum partner, and you give them 10% of their revenue annually,
+
+[SABYASACHI MAHANTI] 19:16:19
+Then they will go to everything that you want.
+
+[SABYASACHI MAHANTI] 19:16:21
+Right? So they do… they look at it two ways. One is that they would have published enough information in their compliance site that very often verifying those
+
+[SABYASACHI MAHANTI] 19:16:29
+are sufficient, but if the auditor still feels that they have not got enough information, then you can still request them to provide those on a need basis.
+
+[SABYASACHI MAHANTI] 19:16:38
+Right, for example,
+
+[SABYASACHI MAHANTI] 19:16:40
+If I get interested, saying that, look, can you show me
+
+[SABYASACHI MAHANTI] 19:16:43
+Hey, hey, Salesforce, can you show me how you do your, uh, disposal of, uh…
+
+[SABYASACHI MAHANTI] 19:16:49
+You know, storage media.
+
+[SABYASACHI MAHANTI] 19:16:51
+Now, they will say, look, I have already published this, my policy and all that details.
+
+[SABYASACHI MAHANTI] 19:16:55
+Right? Uh, but then the auditor say, no, I'm not satisfied, and can you show me an evidences of a batch of, let's say, how did you identify, and all that?
+
+[SABYASACHI MAHANTI] 19:17:07
+See, it all depends on those business tech, I believe, right? There is no thumb rule there.
+
+[venugopal] 19:17:09
+Understand.
+
+[SABYASACHI MAHANTI] 19:17:10
+Uh, yes, one thing we apply is the concept of an SSRM, right?
+
+[SABYASACHI MAHANTI] 19:17:15
+What we call is the… the shared responsibilities between the…
+
+[SABYASACHI MAHANTI] 19:17:22
+provider and the partner, in a sense that the cli… whatever may be your relationship, right? So if you are…
+
+[SABYASACHI MAHANTI] 19:17:29
+Taking a platform as a service,
+
+[SABYASACHI MAHANTI] 19:17:33
+And you are hosting your application between you and the…
+
+[SABYASACHI MAHANTI] 19:17:33
+Uh, cloud provider, there is a relation.
+
+[SABYASACHI MAHANTI] 19:17:34
+And between you and your customer, there is a relation, right? So, all three together, you need to define the requirement of security.
+
+[SABYASACHI MAHANTI] 19:17:42
+Uh, it could be complementary to each other, but as they say, it is…
+
+[SABYASACHI MAHANTI] 19:17:46
+It's never a win-win or win-lose, right? It's always a…
+
+[SABYASACHI MAHANTI] 19:17:52
+zero-sum game in this business, right? So it is not, you do something, I do something.
+
+[SABYASACHI MAHANTI] 19:17:56
+But we all do exactly what is required.
+
+[SABYASACHI MAHANTI] 19:18:02
+That's what we take in our approach. So, yeah.
+
+[venugopal] 19:18:04
+Hmm.
+
+[SABYASACHI MAHANTI] 19:18:06
+If I'm auditing a client who is, like, a 200-people startup organization, and they are using AWS as a platform, for example, or a Salesforce as a platform to deliver their services,
+
+[SABYASACHI MAHANTI] 19:18:16
+Yes, we will be interested in looking at the supplier contract and things like that, but if I say, hey, have you audited AWS, then that's too much of an expectation, correct? So…
+
+[SABYASACHI MAHANTI] 19:18:27
+All your net PCs, whether they have assessed the risk of doing business with AWS or not.
+
+[venugopal] 19:18:27
+Yeah.
+
+[SABYASACHI MAHANTI] 19:18:31
+And if that risk is not acceptable to you as a certification body,
+
+[SABYASACHI MAHANTI] 19:18:35
+Then you might as well decide not to certify them.
+
+[SABYASACHI MAHANTI] 19:18:37
+That's your choice.
+
+[venugopal] 19:18:41
+Understand. Sure.
+
+[SABYASACHI MAHANTI] 19:18:42
+Long answer, but I hope it gives you a perspective.
+
+[venugopal] 19:18:48
+Yeah, okay.
+
+[SABYASACHI MAHANTI] 19:18:52
+validate.
+
+[SABYASACHI MAHANTI] 19:18:52
+Okay? So…
+
+[SABYASACHI MAHANTI] 19:19:03
+We were looking at the Clause 6.
+
+[SABYASACHI MAHANTI] 19:19:03
+So let's go back.
+
+[SABYASACHI MAHANTI] 19:19:03
+Um, no, statement of applicability, also another thing that you need to keep in mind.
+
+[SABYASACHI MAHANTI] 19:19:09
+is that, um…
+
+[SABYASACHI MAHANTI] 19:19:22
+If someone asks me, how do you establish
+
+[SABYASACHI MAHANTI] 19:19:22
+The baseline for security.
+
+[SABYASACHI MAHANTI] 19:19:22
+Right? I will probably refer to the…
+
+[SABYASACHI MAHANTI] 19:19:25
+um… statement of applicability.
+
+[SABYASACHI MAHANTI] 19:19:27
+Right? Because it is truly the baseline, in a sense, right? So, you know
+
+[SABYASACHI MAHANTI] 19:19:32
+Uh, why am I choosing a control?
+
+[SABYASACHI MAHANTI] 19:19:33
+Right? Uh, is it because of a risk? Is it because of a regulatory requirement? Or is it because of…
+
+[SABYASACHI MAHANTI] 19:19:40
+anything else, right? Interested parties requirements?
+
+[SABYASACHI MAHANTI] 19:19:44
+Uh, or is it my wish that I want to implement this control?
+
+[SABYASACHI MAHANTI] 19:19:47
+And then you also mentioned what you do to implement this control, and then finally, you also mentioned
+
+[SABYASACHI MAHANTI] 19:19:56
+Uh, the status of implementation of the actions for the control, right?
+
+[SABYASACHI MAHANTI] 19:19:58
+So, ESOI gives you a baseline.
+
+[SABYASACHI MAHANTI] 19:20:02
+And also, you need to keep in mind,
+
+[SABYASACHI MAHANTI] 19:20:05
+that I cannot, just like that,
+
+[SABYASACHI MAHANTI] 19:20:08
+change something in my statement of applicability. Don't forget that if you look at your ISMS certificate, right,
+
+[SABYASACHI MAHANTI] 19:20:14
+Uh, this is probably only other certificate other than the PIMS, and now the AIMS is going to be, right? Where you have a statement of applicability.
+
+[SABYASACHI MAHANTI] 19:20:23
+accompanied… accompanying the scope statement.
+
+[SABYASACHI MAHANTI] 19:20:26
+So why is it required? I could have just left it at the scope statement itself, right? Why do I need the SOI? Because I'm certifying to a baseline.
+
+[SABYASACHI MAHANTI] 19:20:35
+And many organizations forget this, right? So, when you change your baseline, what do you do?
+
+[SABYASACHI MAHANTI] 19:20:42
+What you are supposed to be doing when you change your baseline, when you make a change to the baseline?
+
+[SABYASACHI MAHANTI] 19:20:47
+What are you expected?
+
+[SABYASACHI MAHANTI] 19:20:51
+Tell me in real life what you do.
+
+[venugopal] 19:20:55
+reassess everything.
+
+[SABYASACHI MAHANTI] 19:20:57
+So I'm supposed to do a change management process.
+
+[SABYASACHI MAHANTI] 19:21:01
+I'm supposed to follow a change management process, correct?
+
+[venugopal] 19:21:02
+Okay.
+
+[SABYASACHI MAHANTI] 19:21:03
+Now, the change management process itself would require me to do a risk assessment.
+
+[SABYASACHI MAHANTI] 19:21:10
+would require me to do an impact assessment.
+
+[SABYASACHI MAHANTI] 19:21:11
+And if you are doing that, then you are great.
+
+[SABYASACHI MAHANTI] 19:21:13
+So, therefore, I cannot, just like that, change anything in the baseline of the Sway once I have established it. So, an auditor would ask you to show
+
+[SABYASACHI MAHANTI] 19:21:26
+Uh, though, let me also tell you, this is not currently a practice.
+
+[SABYASACHI MAHANTI] 19:21:27
+But with the new 22 version of the standard,
+
+[SABYASACHI MAHANTI] 19:21:33
+you, by now, you know why it is needed.
+
+[SABYASACHI MAHANTI] 19:21:36
+Right? Because the change management to the management system is a mandatory…
+
+[SABYASACHI MAHANTI] 19:21:43
+requirement.
+
+[SABYASACHI MAHANTI] 19:21:43
+Where do I see that?
+
+[SABYASACHI MAHANTI] 19:21:45
+I see that here.
+
+[SABYASACHI MAHANTI] 19:21:48
+So, do not change any policy, do not change any processes, do not change any template.
+
+[SABYASACHI MAHANTI] 19:21:53
+Do not make any changes to the ISMS without following the
+
+[SABYASACHI MAHANTI] 19:21:57
+This clause requirement.
+
+[SABYASACHI MAHANTI] 19:22:00
+People thought that if I am deploying a software change, or if I am changing a malware version, or if I'm changing an operating system, or if I'm deploying a patch, only then I'm supposed to do a change management.
+
+[SABYASACHI MAHANTI] 19:22:11
+But the new requirements of the 22 standard
+
+[SABYASACHI MAHANTI] 19:22:16
+and also all subsequent other ISO standards, uh…
+
+[SABYASACHI MAHANTI] 19:22:20
+is that, and this is AIMS, by the way,
+
+[SABYASACHI MAHANTI] 19:22:24
+that when you are making a change to the management system,
+
+[SABYASACHI MAHANTI] 19:22:27
+You are supposed to follow a change management process.
+
+[SABYASACHI MAHANTI] 19:22:31
+So it says, uh, the changes shall be carried out in a planned manner.
+
+[SABYASACHI MAHANTI] 19:22:36
+So I would, as an auditor, expect
+
+[SABYASACHI MAHANTI] 19:22:39
+you to show me.
+
+[SABYASACHI MAHANTI] 19:22:42
+How did you do… go about making that change?
+
+[SABYASACHI MAHANTI] 19:22:49
+Right? That's a requirement, hmm?
+
+[SABYASACHI MAHANTI] 19:22:53
+Okay? So, going back here, that, as I said, that remember the statement of applicability is, uh, the selection of the control and, uh, making the statement of applicability becomes the baseline for you.
+
+[SABYASACHI MAHANTI] 19:23:04
+And then it looks at also, uh, sorry, after that, if you see here,
+
+[SABYASACHI MAHANTI] 19:23:09
+So, this is done, right?
+
+[SABYASACHI MAHANTI] 19:23:13
+It says, uh, AI Risk Assessment.
+
+[SABYASACHI MAHANTI] 19:23:15
+Right? You see the difference here with ISMS, if you're familiar and not with the PIMS?
+
+[SABYASACHI MAHANTI] 19:23:20
+then you will see here,
+
+[SABYASACHI MAHANTI] 19:23:31
+6.1.1 talks about considering from the 4.1 and 4.2,
+
+[SABYASACHI MAHANTI] 19:23:31
+Then it talks about AI risk assessment.
+
+[SABYASACHI MAHANTI] 19:23:31
+Right? And then again, uh, it talks about…
+
+[SABYASACHI MAHANTI] 19:23:35
+this…
+
+[SABYASACHI MAHANTI] 19:23:38
+So, this means…
+
+[SABYASACHI MAHANTI] 19:23:42
+That…
+
+[SABYASACHI MAHANTI] 19:23:44
+The difference is AI risk assessment versus AI system impact assessment. The objective of both are similar.
+
+[SABYASACHI MAHANTI] 19:23:50
+Why do I need to do an impact assessment?
+
+[SABYASACHI MAHANTI] 19:23:54
+Because my risk is what?
+
+[SABYASACHI MAHANTI] 19:23:56
+If I have an unfair
+
+[SABYASACHI MAHANTI] 19:24:00
+BIAS AI system, is it a risk to my organization?
+
+[SABYASACHI MAHANTI] 19:24:03
+By now, you should say yes.
+
+[SABYASACHI MAHANTI] 19:24:05
+Right? So, if that is the answer,
+
+[SABYASACHI MAHANTI] 19:24:08
+then how will I know that my, uh…
+
+[SABYASACHI MAHANTI] 19:24:12
+You know, AI may be making a wrong decision, and it has got… and if it makes a wrong decision,
+
+[SABYASACHI MAHANTI] 19:24:18
+How is it going to have an impact on individual…
+
+[SABYASACHI MAHANTI] 19:24:23
+or society or a group of people.
+
+[SABYASACHI MAHANTI] 19:24:26
+So, AI system impact assessment is not the same as the AI risk assessment. AI system impact assessment is
+
+[SABYASACHI MAHANTI] 19:24:34
+For every AI system that you have deployed in your organization, or you're planning to deploy,
+
+[SABYASACHI MAHANTI] 19:24:40
+You are supposed to do an impact assessment of that.
+
+[SABYASACHI MAHANTI] 19:24:44
+So while I'm doing the impact assessment, what I need to worry about, or what I need to look at? I need to consider these requirements, right? It says organization shall define a process for assessing the potential consequences
+
+[SABYASACHI MAHANTI] 19:24:57
+For individuals or groups, or both, and societies that can result from the development, provision, or use of systems.
+
+[SABYASACHI MAHANTI] 19:25:04
+Like I said, that if you…
+
+[SABYASACHI MAHANTI] 19:25:07
+are using an AI system to lay off
+
+[SABYASACHI MAHANTI] 19:25:10
+The bottom 10% of your organization, and if that AI system makes a wrong decision,
+
+[SABYASACHI MAHANTI] 19:25:15
+It means people, real people, losing jobs, right? It means their lives, probably, right?
+
+[SABYASACHI MAHANTI] 19:25:21
+So, when you do so,
+
+[SABYASACHI MAHANTI] 19:25:23
+Or even if it is a chatbot, for example, automating my HR support.
+
+[SABYASACHI MAHANTI] 19:25:30
+Um, or an IT support, right? You need to go through this process.
+
+[SABYASACHI MAHANTI] 19:25:34
+So, potential consequences, right? AI system impact assessment shall take into account the specific technical and societal context
+
+[SABYASACHI MAHANTI] 19:25:43
+Where the AI system is deployed,
+
+[SABYASACHI MAHANTI] 19:25:46
+and applicable jurisdiction. So, there are
+
+[SABYASACHI MAHANTI] 19:25:50
+Um… areas where it is applied, what kind of people on whom this is applied, right?
+
+[SABYASACHI MAHANTI] 19:25:56
+jurisdictions are, of course, important, as you know, different jurisdictions may have different regulatory requirements, right?
+
+[SABYASACHI MAHANTI] 19:26:03
+Um, uh
+
+[SABYASACHI MAHANTI] 19:26:05
+demographic requirements and things like that. The result of AI system impact assessments shall be documented. Where appropriate, the result of the…
+
+[SABYASACHI MAHANTI] 19:26:14
+system impact assessment can be made available to relevant interested parties, as defined by the organization. Now, let's say…
+
+[SABYASACHI MAHANTI] 19:26:20
+Tomorrow, your regulator in the Europe, you are working, uh, in Europe,
+
+[SABYASACHI MAHANTI] 19:26:26
+And in India too, right? Your regulator says, hey, before
+
+[SABYASACHI MAHANTI] 19:26:30
+you deployed this…
+
+[SABYASACHI MAHANTI] 19:26:34
+AI tool, um, to, let's say, lay off, uh, to identify the, not layoff, to identify the bottom 10% of your…
+
+[SABYASACHI MAHANTI] 19:26:43
+organization. Did you do an, uh, impact assessment of this AI system?
+
+[SABYASACHI MAHANTI] 19:26:48
+So, it may be that it becomes tomorrow a regulatory requirement to maintain
+
+[SABYASACHI MAHANTI] 19:26:54
+and AI system impact assessment, uh, document.
+
+[SABYASACHI MAHANTI] 19:26:56
+Just like you do in PIMS, the data privacy impact assessment document.
+
+[SABYASACHI MAHANTI] 19:27:02
+Uh, the regulator would not even allow you to run your business if you don't do DPIA, right? So this is looked at from that context.
+
+[SABYASACHI MAHANTI] 19:27:10
+Okay. No.
+
+[SABYASACHI MAHANTI] 19:27:14
+Is it… is it clear? Any questions? Any queries?
+
+[SABYASACHI MAHANTI] 19:27:20
+Okay, uh, so I'm moving on. Uh, some of this, as I said, uh, first day, it becomes sometimes I talk too many things about, right? So it becomes…
+
+[SABYASACHI MAHANTI] 19:27:30
+little here and there, but I'm sure tomorrow onwards, uh, we will have more clarity.
+
+[SABYASACHI MAHANTI] 19:27:35
+Uh, as we go through multiple times this, right? So then…
+
+[SABYASACHI MAHANTI] 19:27:39
+I'm still remember trying to explain to you the PDCA, the relation between the Clause 5 and the 6 and the 7 and the 8, right?
+
+[SABYASACHI MAHANTI] 19:27:48
+and then 9 and 10. So here, if you see…
+
+[SABYASACHI MAHANTI] 19:27:52
+Um, post the AI impact assessment, and post my risk assessment,
+
+[SABYASACHI MAHANTI] 19:27:57
+Now comes the AI objectives.
+
+[SABYASACHI MAHANTI] 19:28:00
+So the question we should ask ourselves, why I did not set my objectives before doing the risk assessment?
+
+[SABYASACHI MAHANTI] 19:28:06
+And it's the same answer.
+
+[SABYASACHI MAHANTI] 19:28:08
+I don't want to set an objective for a low-risk item, right? Has anybody in the history done that? If somebody's doing that, then they are wasting money.
+
+[SABYASACHI MAHANTI] 19:28:17
+on the management system, right?
+
+[SABYASACHI MAHANTI] 19:28:19
+So I want to set an objective on something that is a high risk for my organization. Take, for example,
+
+[SABYASACHI MAHANTI] 19:28:26
+If my AI system is biased,
+
+[SABYASACHI MAHANTI] 19:28:28
+That is my highest risk.
+
+[SABYASACHI MAHANTI] 19:28:31
+Right? So, I need to have some objectives around the bias.
+
+[SABYASACHI MAHANTI] 19:28:37
+fairness of the AI system, and therefore,
+
+[SABYASACHI MAHANTI] 19:28:42
+The objectives always comes after the risk assessment.
+
+[SABYASACHI MAHANTI] 19:28:47
+So therefore, you have the 6.2 is objectives.
+
+[SABYASACHI MAHANTI] 19:28:52
+Now, one thing you would notice, that the first thing it says that an AI objective shall be consistent with the AI policy.
+
+[SABYASACHI MAHANTI] 19:29:01
+And it gives a reference to the 5-point tool.
+
+[SABYASACHI MAHANTI] 19:29:04
+Now, if you go back to 5.2, what do you find there?
+
+[SABYASACHI MAHANTI] 19:29:09
+We have already explained this, right? 5.2 talks about…
+
+[SABYASACHI MAHANTI] 19:29:16
+Provides the framework for setting objectives, and it cross-referenced to 6.2.
+
+[SABYASACHI MAHANTI] 19:29:20
+So if my policy…
+
+[SABYASACHI MAHANTI] 19:29:23
+cannot give me indications in terms of what should be my objectives, please check back your policy itself.
+
+[SABYASACHI MAHANTI] 19:29:30
+That means my policy may not be articulated well.
+
+[SABYASACHI MAHANTI] 19:29:35
+That means by reading the policy, people are not getting a clear message.
+
+[SABYASACHI MAHANTI] 19:29:39
+Right? You can go back and work with your management and say, that looks like my policy is not…
+
+[SABYASACHI MAHANTI] 19:29:43
+Helping, establishing the objectives by the…
+
+[SABYASACHI MAHANTI] 19:29:47
+downstream, right? What you call, right? Meaning the functions and the departments and all that, right?
+
+[SABYASACHI MAHANTI] 19:29:53
+Okay? And if this happens, trust me, you will have…
+
+[SABYASACHI MAHANTI] 19:29:58
+a serious issue, uh, with demonstrating that the management system is capable of achieving… helping achieving the strategic objective of the organization, right? So that's the correlation.
+
+[SABYASACHI MAHANTI] 19:30:10
+And we will look at, as I said, when we do the activities, this will be more clear to you with respect to AIMS.
+
+[SABYASACHI MAHANTI] 19:30:17
+So, I'm in 6.2, and I'm setting up my objectives, right? So I've taken it from my…
+
+[SABYASACHI MAHANTI] 19:30:24
+policy, and then I am defining it should be miserable, more importantly,
+
+[SABYASACHI MAHANTI] 19:30:29
+Taken into account applicable requirements, be monitored, be communicated, be updated, be available as documented information, right?
+
+[SABYASACHI MAHANTI] 19:30:37
+When planning how to achieve the objective,
+
+[SABYASACHI MAHANTI] 19:30:40
+you must define what will be done, what resources will be required,
+
+[SABYASACHI MAHANTI] 19:30:44
+Who will be responsible, when it will be completed, or now the result will be evaluated.
+
+[SABYASACHI MAHANTI] 19:30:50
+So now think… keep thinking about what am I expecting as an auditor here?
+
+[SABYASACHI MAHANTI] 19:30:55
+What am I going to be doing as an implementer here? So, if you ask me as an auditor, I would have been very happy to see a simple
+
+[SABYASACHI MAHANTI] 19:31:01
+like a table where, you know, your first column is the objective… sorry, first column is the policy reference, second column could be the objective, third column could be this, right? What will be done to achieve these objectives?
+
+[SABYASACHI MAHANTI] 19:31:13
+What resources will be required?
+
+[SABYASACHI MAHANTI] 19:31:16
+Right? What tools do… what human resource, what… how much money do I need?
+
+[SABYASACHI MAHANTI] 19:31:20
+Right? What budget should be kept, then who will be responsible for this particular objective?
+
+[SABYASACHI MAHANTI] 19:31:26
+Uh, when it'll be completed, is it quarterly, is it annually? Is it monthly, is it in weekly? I don't know. And how the result will be evaluated? How do I know whether I passed or I failed?
+
+[SABYASACHI MAHANTI] 19:31:37
+Right? So these details will be required for every objective that you set.
+
+[SABYASACHI MAHANTI] 19:31:41
+Right? And this can, of course,
+
+[SABYASACHI MAHANTI] 19:31:46
+correlate to the…
+
+[SABYASACHI MAHANTI] 19:31:47
+KPI in 9.1.
+
+[SABYASACHI MAHANTI] 19:31:50
+Now…
+
+[SABYASACHI MAHANTI] 19:31:52
+If you see the note here, right?
+
+[SABYASACHI MAHANTI] 19:31:55
+You have seen the NXA and NXB requirement, right? So, I said NXA is a list of control.
+
+[SABYASACHI MAHANTI] 19:32:02
+And the next B is for each control, how will you implement the control? There's a guideline given.
+
+[SABYASACHI MAHANTI] 19:32:07
+So, that is next to A and NXB is about.
+
+[SABYASACHI MAHANTI] 19:32:10
+Now, what is this annex C, right? So, Annex C is saying that
+
+[SABYASACHI MAHANTI] 19:32:17
+This is like an annexure where your…
+
+[SABYASACHI MAHANTI] 19:32:20
+high-level objectives for an AIMS has been already given to you.
+
+[SABYASACHI MAHANTI] 19:32:24
+You can pick and choose from that, you can add more, you can delete some, it does not matter, but…
+
+[SABYASACHI MAHANTI] 19:32:30
+It has… they have already given to you, like, if I go to the NXC, this is the NXC.
+
+[SABYASACHI MAHANTI] 19:32:35
+And remember, NXC is informative.
+
+[SABYASACHI MAHANTI] 19:32:38
+Which means it is not a requirement.
+
+[SABYASACHI MAHANTI] 19:32:41
+Right? Where it is a requirement, you will see what does it say? When it is a requirement?
+
+[SABYASACHI MAHANTI] 19:32:49
+Let's see the NXA.
+
+[SABYASACHI MAHANTI] 19:32:52
+title, just the title?
+
+[SABYASACHI MAHANTI] 19:32:54
+What does the NXT say here?
+
+[SABYASACHI MAHANTI] 19:32:57
+It is normative.
+
+[SABYASACHI MAHANTI] 19:32:59
+Right? So in ISO, usually the normatives are the requirements.
+
+[SABYASACHI MAHANTI] 19:33:03
+Right? So everything written here is a requirement. A non-conformity can be raised if you do not meet these requirements, right?
+
+[SABYASACHI MAHANTI] 19:33:10
+Whereas informative,
+
+[SABYASACHI MAHANTI] 19:33:13
+is only for references. So, if you see NXC,
+
+[SABYASACHI MAHANTI] 19:33:23
+is informative. What does it contain?
+
+[SABYASACHI MAHANTI] 19:33:25
+It says potential AI-related organizational objectives and the risk sources.
+
+[SABYASACHI MAHANTI] 19:33:31
+Where does the risk hand come from?
+
+[SABYASACHI MAHANTI] 19:33:35
+And what are the potential objectives can be set. So, they have already given you a list of objectives.
+
+[SABYASACHI MAHANTI] 19:33:41
+In C2, if you see here,
+
+[SABYASACHI MAHANTI] 19:33:44
+They have given accountability can be one of the objectives.
+
+[SABYASACHI MAHANTI] 19:33:48
+AI expertise can be one of the objectives.
+
+[SABYASACHI MAHANTI] 19:33:51
+Availability and quality of training and test data can be one of the objectives.
+
+[SABYASACHI MAHANTI] 19:33:56
+Environmental impact can be an objective. Fairness can be an objective. Account maintainability, privacy can be objectives, right?
+
+[SABYASACHI MAHANTI] 19:34:04
+Then, robustness, safety, security, and transparency in explainability.
+
+[SABYASACHI MAHANTI] 19:34:10
+There are almost 11 objectives has been given to you.
+
+[SABYASACHI MAHANTI] 19:34:16
+to form… to best of my knowledge,
+
+[SABYASACHI MAHANTI] 19:34:18
+If you pick and choose and take all these 11 objectives for your organization and start working, right, you will have a very solid and a decent AIMS management system. So for each one of these,
+
+[SABYASACHI MAHANTI] 19:34:31
+You then define who is responsible, what will you do to measure, for example, how am I going to measure robustness?
+
+[SABYASACHI MAHANTI] 19:34:38
+Right? How am I going to measure safety?
+
+[SABYASACHI MAHANTI] 19:34:41
+Who in my organization will be responsible for the safety of AI?
+
+[SABYASACHI MAHANTI] 19:34:46
+Right? So, things like that, right? And it also talks about certain risk sources. What does it mean?
+
+[SABYASACHI MAHANTI] 19:34:55
+If, from the complexity of the environment itself, I might be able to do some risk assessment, risk identification. Similarly, lack of transparency, level of automation,
+
+[SABYASACHI MAHANTI] 19:35:04
+Right? Higher the level of automation, higher the risk.
+
+[SABYASACHI MAHANTI] 19:35:07
+Right? And if the automation…
+
+[SABYASACHI MAHANTI] 19:35:10
+also includes, um…
+
+[SABYASACHI MAHANTI] 19:35:11
+you know, automated decision-making.
+
+[SABYASACHI MAHANTI] 19:35:15
+Right? Then…
+
+[SABYASACHI MAHANTI] 19:35:19
+you know, all the more important here, right? Risk sources related to machine learning,
+
+[SABYASACHI MAHANTI] 19:35:24
+System hardware issues, system lifecycle issues, and technology readiness.
+
+[SABYASACHI MAHANTI] 19:35:29
+So these are all your, uh, areas from where you can…
+
+[SABYASACHI MAHANTI] 19:35:32
+basically identify risk, right? So that was about the…
+
+[SABYASACHI MAHANTI] 19:35:37
+NXC. So in 6.2, when you are defining your objective of the management system,
+
+[SABYASACHI MAHANTI] 19:35:43
+You certainly can consider the list of risk from there.
+
+[SABYASACHI MAHANTI] 19:35:47
+Right? Now, moving on, uh, so we have completed the sixth, uh, with the, you know, the…
+
+[SABYASACHI MAHANTI] 19:35:55
+planning of changes, like I said, ensure that your understanding
+
+[SABYASACHI MAHANTI] 19:36:00
+On this topic is that?
+
+[SABYASACHI MAHANTI] 19:36:03
+Whenever you make any changes, once you have established an AIMS,
+
+[SABYASACHI MAHANTI] 19:36:09
+Right? Anything within the scope of AIMS, it can be a process, policy,
+
+[SABYASACHI MAHANTI] 19:36:15
+anything, right? A control implementation. If you are… if you are making any changes, you need to follow a change management process.
+
+[SABYASACHI MAHANTI] 19:36:25
+So next time, if you are getting audited, and if we say, okay, last year I reviewed the, you know, the AIMS manual, and, you know, these are the changes I have made, we are going to ask you, can you show me the process that you followed for the change management?
+
+[SABYASACHI MAHANTI] 19:36:41
+For making the changes in your AIMS, right? And then you have to show all those evidences of how did you do risk assessment, how did you…
+
+[SABYASACHI MAHANTI] 19:36:48
+Make a decision that this change is appropriate, what is the impact, and all of it, right? Now, this is true about not only AIMS,
+
+[SABYASACHI MAHANTI] 19:36:56
+Please go back and read the requirement also in ISMS, the same, right? So, uh, many people do not notice this in terms of when
+
+[SABYASACHI MAHANTI] 19:37:03
+You transition from the 2013 version of ISMS to the 22 version.
+
+[SABYASACHI MAHANTI] 19:37:08
+that point in time itself, you should have implemented this.
+
+[SABYASACHI MAHANTI] 19:37:12
+Right in ISMS. But in, uh, AIMS is a later standard, so it automatically comes in built anyway.
+
+[SABYASACHI MAHANTI] 19:37:18
+There is no changeover, right? It's the first time itself, right?
+
+[SABYASACHI MAHANTI] 19:37:23
+And, uh, then comes support. Now…
+
+[SABYASACHI MAHANTI] 19:37:27
+You'll see, in…
+
+[SABYASACHI MAHANTI] 19:37:30
+In 6.2, you have said what resources will be required. So, obviously, if your Clause 7 would have been before…
+
+[SABYASACHI MAHANTI] 19:37:37
+The Class 6, it would have been illogical, right? So now you know what resources will be required, so I now…
+
+[SABYASACHI MAHANTI] 19:37:42
+Move on to resources.
+
+[SABYASACHI MAHANTI] 19:37:45
+Right? So the input from 6 flows into 7, because I need to now define the…
+
+[SABYASACHI MAHANTI] 19:37:50
+The resources here, what kind of resources do I need?
+
+[SABYASACHI MAHANTI] 19:37:53
+Right? To manage the objective and the management system, various roles and responsibilities, right?
+
+[SABYASACHI MAHANTI] 19:37:59
+So, the…
+
+[SABYASACHI MAHANTI] 19:38:02
+Resources, meaning all sorts of resources. Like I said, it can be an application, technology, hardware, software, people…
+
+[SABYASACHI MAHANTI] 19:38:09
+Right? Um, whatever that is.
+
+[SABYASACHI MAHANTI] 19:38:12
+And then comes competence. So, competence…
+
+[SABYASACHI MAHANTI] 19:38:16
+Uh, determine the necessary competence of person we work under the control of the AI.
+
+[SABYASACHI MAHANTI] 19:38:22
+Uh, sorry, control that affects the AI performance.
+
+[SABYASACHI MAHANTI] 19:38:25
+Ensure that this persons are competent on the basis of appropriate education, training, or inexperience.
+
+[SABYASACHI MAHANTI] 19:38:31
+Where applicable, take actions to acquire the necessary competence and evaluate the effectiveness of the action taken.
+
+[SABYASACHI MAHANTI] 19:38:37
+So, if you are joining a program like this, if you are taking mentoring, if you are going through an online training, in each cases, it is required.
+
+[SABYASACHI MAHANTI] 19:38:46
+that the effectiveness of this training that you are participating or mentoring that you are going through?
+
+[SABYASACHI MAHANTI] 19:38:52
+is measured, right?
+
+[SABYASACHI MAHANTI] 19:38:54
+So it can be an exam, it can be a feedback mechanisms, whatever that is, right? Organization will define that.
+
+[SABYASACHI MAHANTI] 19:39:02
+Uh, moving on further, Averness…
+
+[SABYASACHI MAHANTI] 19:39:06
+Right? Um…
+
+[SABYASACHI MAHANTI] 19:39:09
+Persons doing work under the organization's control shall be aware of the policy, so everybody in the organization needs to be aware of the policy.
+
+[SABYASACHI MAHANTI] 19:39:16
+And we just saw the policy some time back, right?
+
+[SABYASACHI MAHANTI] 19:39:20
+Uh, but…
+
+[SABYASACHI MAHANTI] 19:39:23
+More importantly, the other two points here.
+
+[SABYASACHI MAHANTI] 19:39:25
+Right? Just knowing the policy is not good enough.
+
+[SABYASACHI MAHANTI] 19:39:29
+So what else do I need to know?
+
+[SABYASACHI MAHANTI] 19:39:31
+It says their contribution to the effectiveness of the AI management system, including the benefits of improved
+
+[SABYASACHI MAHANTI] 19:39:40
+performance. And then lastly,
+
+[SABYASACHI MAHANTI] 19:39:42
+The implications of not conforming with the AI management system.
+
+[SABYASACHI MAHANTI] 19:39:47
+So, suppose if I am responsible for the data quality, and if I mess up with the data quality, what happens?
+
+[SABYASACHI MAHANTI] 19:39:54
+you know that the outcome of the AI will be…
+
+[SABYASACHI MAHANTI] 19:39:57
+probably not accurate, or could be biased and not fair.
+
+[SABYASACHI MAHANTI] 19:40:01
+Right? So it is like, you know, the…
+
+[SABYASACHI MAHANTI] 19:40:05
+Um… an aircraft maintenance team,
+
+[SABYASACHI MAHANTI] 19:40:09
+Uh, they… everyone in that team not only need to know about the air safety, but they also need to know if they leave as crew, uh, loose.
+
+[SABYASACHI MAHANTI] 19:40:17
+What happens to those 300 people on air, right?
+
+[SABYASACHI MAHANTI] 19:40:21
+And that's the effect of the awareness. So if you have noticed that as a…
+
+[SABYASACHI MAHANTI] 19:40:28
+As a certification bodies, auditor, sometimes we ask you to show the content of the…
+
+[SABYASACHI MAHANTI] 19:40:34
+training or the awareness session that you…
+
+[SABYASACHI MAHANTI] 19:40:37
+do for your people? Why do we think… what do you think what we are looking at there?
+
+[SABYASACHI MAHANTI] 19:40:42
+We are looking at those aspects where…
+
+[SABYASACHI MAHANTI] 19:40:45
+Have you told them that if they don't do their job well,
+
+[SABYASACHI MAHANTI] 19:40:49
+what could be the impact of that on the overall outcome of the management system?
+
+[SABYASACHI MAHANTI] 19:40:54
+Right? So, say, for example, if there is a…
+
+[SABYASACHI MAHANTI] 19:40:58
+Uh, there is a phishing attempt, or there is a spam, and if I click on the link,
+
+[SABYASACHI MAHANTI] 19:41:03
+How it can impact the organizations, right?
+
+[SABYASACHI MAHANTI] 19:41:07
+Um, that's one of the ways to look at it.
+
+[SABYASACHI MAHANTI] 19:41:10
+Right? So, positive, uh, affirmation is good, but at the same time, also letting them know if they don't confirm, what can happen. So these are some of these things are finer aspects. If you see, got added into the management system,
+
+[SABYASACHI MAHANTI] 19:41:23
+in the high-level structure later, right? Not… nothing unique in AIMS, by the way. This is all there in any ISO standard you read.
+
+[SABYASACHI MAHANTI] 19:41:32
+Okay? Uh, communication.
+
+[SABYASACHI MAHANTI] 19:41:36
+Another important aspect within the Clause 7, so Clause 7, you have…
+
+[SABYASACHI MAHANTI] 19:41:40
+Uh, you have competence, you have resources, then you have awareness.
+
+[SABYASACHI MAHANTI] 19:41:46
+And then you have communication. So, communication is, again, the organization shall determine the internal-external communication to the…
+
+[SABYASACHI MAHANTI] 19:41:54
+relevant to the AI, and it is not about the whole organization's communication, right? It is relevant to the AI.
+
+[SABYASACHI MAHANTI] 19:42:00
+What will be communicated, when to communicate, with whom to communicate.
+
+[SABYASACHI MAHANTI] 19:42:04
+And how to communicate.
+
+[SABYASACHI MAHANTI] 19:42:07
+Right? What are you expecting out of this? What kind of evidences would you expect here?
+
+[SABYASACHI MAHANTI] 19:42:13
+In 7.4.
+
+[SABYASACHI MAHANTI] 19:42:18
+What are you expecting your audit to show you?
+
+[Suparnna R] 19:42:27
+or a poster in your… Portal… Which makes you aware, so that it is communicated to every individual.
+
+[SABYASACHI MAHANTI] 19:42:32
+Okay?
+
+[SABYASACHI MAHANTI] 19:42:36
+Okay, so you are talking probably about this.
+
+[SABYASACHI MAHANTI] 19:42:39
+Uh, super now. You are probably talking about the awareness.
+
+[Suparnna R] 19:42:44
+But it also talks about the communication, right? So that… Everyone is well communicated on it.
+
+[SABYASACHI MAHANTI] 19:42:47
+Yeah, but if…
+
+[SABYASACHI MAHANTI] 19:42:50
+You have to communicate, right? No doubt about it. What I was saying is that
+
+[SABYASACHI MAHANTI] 19:42:55
+7.4's requirement is what?
+
+[SABYASACHI MAHANTI] 19:42:57
+If you see, it says the organization shall determine the internal and external communications
+
+[SABYASACHI MAHANTI] 19:43:03
+Relevant to the AI management system.
+
+[SABYASACHI MAHANTI] 19:43:06
+Correct? So, one could be what I sent for awareness, right?
+
+[Suparnna R] 19:43:11
+Mm-hmm.
+
+[SABYASACHI MAHANTI] 19:43:12
+But what else?
+
+[Unnikrishnan G] 19:43:16
+to policy procedures. Through policy and procedures.
+
+[SABYASACHI MAHANTI] 19:43:16
+to that kind of…
+
+[SABYASACHI MAHANTI] 19:43:18
+Hmm?
+
+[SABYASACHI MAHANTI] 19:43:25
+So, let's say there is a…
+
+[Suparnna R] 19:43:27
+Communications.
+
+[SABYASACHI MAHANTI] 19:43:28
+Hmm, yes, tell me?
+
+[SABYASACHI MAHANTI] 19:43:33
+So,
+
+[SABYASACHI MAHANTI] 19:43:36
+The need for communication. Let's say there is an individual had a doubt, and I reported,
+
+[SABYASACHI MAHANTI] 19:43:43
+That looks like this AI system is behaving crazily.
+
+[SABYASACHI MAHANTI] 19:43:48
+Right?
+
+[SABYASACHI MAHANTI] 19:43:51
+Who all need to know about this?
+
+[SABYASACHI MAHANTI] 19:43:54
+Or let's say, as an employee,
+
+[SABYASACHI MAHANTI] 19:43:58
+a problem with the chatbot that HR has implemented.
+
+[SABYASACHI MAHANTI] 19:44:03
+I should be able to raise complaints, right? That the chatbot is not giving me the right answer, I'm not able to solve a problem.
+
+[SABYASACHI MAHANTI] 19:44:09
+So, I'm in urgent need for some advance in my salary.
+
+[SABYASACHI MAHANTI] 19:44:14
+And the chatbot is, you know, taking me for a ride, and it never gives me…
+
+[SABYASACHI MAHANTI] 19:44:18
+And clear answer as to whom do I need to get in touch, and who can solve this problem, right? So, I'm frustrated.
+
+[SABYASACHI MAHANTI] 19:44:25
+Now I want to report a complaint saying that your AI is not giving me, helping me.
+
+[SABYASACHI MAHANTI] 19:44:32
+So that is also a need for communication.
+
+[SABYASACHI MAHANTI] 19:44:36
+Right? So when it…
+
+[Anish Melbin] 19:44:37
+And contact IT RICE tickets.
+
+[SABYASACHI MAHANTI] 19:44:39
+Yeah, so, absolutely. It can be erasing a ticket.
+
+[Shilpa Gethe] 19:44:44
+Some disclaimers.
+
+[SABYASACHI MAHANTI] 19:44:46
+I'm sorry?
+
+[Shilpa Gethe] 19:44:48
+Some disclaimers can be used.
+
+[SABYASACHI MAHANTI] 19:44:50
+Yeah. So…
+
+[SABYASACHI MAHANTI] 19:44:53
+And remember, all that you are saying is, uh, what we would do, correct, but the communication is about…
+
+[SABYASACHI MAHANTI] 19:45:00
+What is needed at the organization level, right?
+
+[SABYASACHI MAHANTI] 19:45:04
+So everything that requires a communication is what you'll define here.
+
+[SABYASACHI MAHANTI] 19:45:09
+Then you are executing it, right? So, in case this happens, this has to be done, right?
+
+[SABYASACHI MAHANTI] 19:45:14
+Uh, for example, when you inform the regulator, when will you inform your client? When will you inform your individual who is getting impacted? It could be also like that, right? If there is a disaster, for example,
+
+[SABYASACHI MAHANTI] 19:45:27
+Right? Where my air system may not work for some time.
+
+[SABYASACHI MAHANTI] 19:45:30
+So I might have to inform my interested parties, correct? So, this communication is about…
+
+[SABYASACHI MAHANTI] 19:45:36
+All the communication, therefore it says,
+
+[SABYASACHI MAHANTI] 19:45:39
+Relevant to the management system, but what it needs to have is what it will communicate,
+
+[SABYASACHI MAHANTI] 19:45:47
+When to communicate with whom to communicate, and how to communicate.
+
+[SABYASACHI MAHANTI] 19:45:50
+And you will find a communication plan in the sample, right? What I would…
+
+[SABYASACHI MAHANTI] 19:45:56
+do, for example, if I have to implement this, right?
+
+[SABYASACHI MAHANTI] 19:46:00
+I will probably meet up with the different roles and responsibilities within the organization, maybe like the department heads or the AI system.
+
+[SABYASACHI MAHANTI] 19:46:08
+owners and things like that.
+
+[SABYASACHI MAHANTI] 19:46:09
+Right? Uh, including the top management. And I'll try to…
+
+[SABYASACHI MAHANTI] 19:46:14
+kind of go create a workshop type, right? Where my objective is to define a communication plan.
+
+[SABYASACHI MAHANTI] 19:46:20
+So I may create a simple table, right, where my first column could be what?
+
+[SABYASACHI MAHANTI] 19:46:26
+What is the need for communication? So, let's say communication related to AI malfunction.
+
+[SABYASACHI MAHANTI] 19:46:32
+Communication related to AI, unavailability.
+
+[SABYASACHI MAHANTI] 19:46:35
+Right? And my next column could be when to communicate. So, when will I communicate?
+
+[SABYASACHI MAHANTI] 19:46:40
+with whom will I communicate?
+
+[SABYASACHI MAHANTI] 19:46:42
+And how do I communicate?
+
+[SABYASACHI MAHANTI] 19:46:44
+Right? So I'll create a table, right? There may be 20 elements, 15 elements, I don't know. It depends on the organization.
+
+[SABYASACHI MAHANTI] 19:46:52
+Right? But this is what I would expect him.
+
+[SABYASACHI MAHANTI] 19:46:55
+7.4.
+
+[SABYASACHI MAHANTI] 19:46:56
+Right?
+
+[SABYASACHI MAHANTI] 19:46:58
+And then lastly,
+
+[SABYASACHI MAHANTI] 19:47:00
+In this is 7.5. 7.5 is an…
+
+[SABYASACHI MAHANTI] 19:47:05
+interesting, you know, clause here, because it talks about…
+
+[SABYASACHI MAHANTI] 19:47:09
+documentation, documented information.
+
+[SABYASACHI MAHANTI] 19:47:13
+Right? Documented information required for this management system.
+
+[SABYASACHI MAHANTI] 19:47:17
+Right? And it talks about…
+
+[SABYASACHI MAHANTI] 19:47:21
+Uh, few important aspects here.
+
+[SABYASACHI MAHANTI] 19:47:24
+Right? So, say, for example, how much documentation is required?
+
+[SABYASACHI MAHANTI] 19:47:34
+What do you think?
+
+[SABYASACHI MAHANTI] 19:47:40
+Does the standard say anything?
+
+[Shilpa Gethe] 19:47:40
+Appropriate?
+
+[SABYASACHI MAHANTI] 19:47:41
+Yeah.
+
+[Shilpa Gethe] 19:47:43
+No, no, I was just thinking about my, like, my thought process, like, document, uh, documentation should be appropriate enough to convey the information, not more than… more or less than that.
+
+[SABYASACHI MAHANTI] 19:47:56
+So,
+
+[SABYASACHI MAHANTI] 19:47:58
+It should be appropriate, right? Now, how do I… how do I define that? How do I decide on that?
+
+[SABYASACHI MAHANTI] 19:48:04
+What is appropriate?
+
+[SABYASACHI MAHANTI] 19:48:07
+ISO has given some, uh, guideline here.
+
+[SABYASACHI MAHANTI] 19:48:10
+What we need to think of, if I have 100 people organization, again, the same thing, right?
+
+[SABYASACHI MAHANTI] 19:48:16
+And if I have a 10,000 people organization versus 100, 200, 3,000, 300,000 people organization,
+
+[SABYASACHI MAHANTI] 19:48:25
+Will the level of documentation and the amount of documentation required would be the same?
+
+[SABYASACHI MAHANTI] 19:48:31
+If you end up doing a documentation for a 300,000 people organization for a…
+
+[SABYASACHI MAHANTI] 19:48:37
+The same level of documentation for a…
+
+[SABYASACHI MAHANTI] 19:48:41
+300 people organize, and that organization will run out… go out of business. They'll have to shut shop to run only the AIMS, right, for their lifetime.
+
+[SABYASACHI MAHANTI] 19:48:49
+So, obviously,
+
+[SABYASACHI MAHANTI] 19:48:51
+It cannot be the same. But then…
+
+[SABYASACHI MAHANTI] 19:48:55
+There is no single answer, right? The standard says if you see, pay attention here. So this is what you should be able to quote, right, in the future, in a sense.
+
+[SABYASACHI MAHANTI] 19:49:03
+If this question comes, right? It says the extent of documented information for an AI management system can differ from one organization to the another due to…
+
+[SABYASACHI MAHANTI] 19:49:13
+The size of the organization and its type of activities.
+
+[SABYASACHI MAHANTI] 19:49:16
+But processes and products and services.
+
+[SABYASACHI MAHANTI] 19:49:20
+Right? So there are complex organization…
+
+[SABYASACHI MAHANTI] 19:49:23
+highly complex organizations where documentation could be…
+
+[SABYASACHI MAHANTI] 19:49:27
+required, right? Um, you know, the complexity of the processes and their interactions…
+
+[SABYASACHI MAHANTI] 19:49:32
+Right? The competence of the person, right? The people, those who are working,
+
+[SABYASACHI MAHANTI] 19:49:37
+Usually, you need more documented information where there are low competence people, right? Because they need instructions, they need manuals, they need…
+
+[SABYASACHI MAHANTI] 19:49:47
+clear guidelines, right?
+
+[SABYASACHI MAHANTI] 19:49:50
+So, it'll depend, right?
+
+[SABYASACHI MAHANTI] 19:49:52
+ISO does not say that you cannot certify an organization with 20 people, does it say?
+
+[SABYASACHI MAHANTI] 19:49:58
+No. If 20 people organization can also be certified, provided they meet the requirement.
+
+[SABYASACHI MAHANTI] 19:50:04
+Now, when it comes to the documentation,
+
+[SABYASACHI MAHANTI] 19:50:06
+Right? Uh, will that be same?
+
+[SABYASACHI MAHANTI] 19:50:09
+Probably not. So I… so there is no single answer, please remember, right? But you will find it yourself as you…
+
+[SABYASACHI MAHANTI] 19:50:17
+experience this, right? We calibrate our expectations from organizations, for sure.
+
+[SABYASACHI MAHANTI] 19:50:23
+Uh, depending on the size and complexity, right? There is also another, uh, place,
+
+[SABYASACHI MAHANTI] 19:50:29
+If you go through the standard, I mean, again, you will understand this.
+
+[SABYASACHI MAHANTI] 19:50:35
+And quickly be able to figure it out, that…
+
+[SABYASACHI MAHANTI] 19:50:39
+Um… where is it? Where is it? Um…
+
+[SABYASACHI MAHANTI] 19:50:43
+Just give me a moment.
+
+[SABYASACHI MAHANTI] 19:50:49
+Yeah, it has to be innate.
+
+[Shilpa Gethe] 19:51:00
+There was a live upstairs, 8.1, I believe.
+
+[SABYASACHI MAHANTI] 19:51:03
+Sorry?
+
+[Shilpa Gethe] 19:51:04
+There was a line here, documented as partial, available to the extent necessary.
+
+[SABYASACHI MAHANTI] 19:51:11
+Mm-hmm.
+
+[SABYASACHI MAHANTI] 19:51:12
+This one.
+
+[SABYASACHI MAHANTI] 19:51:15
+Right? Look at the last part of the…
+
+[SABYASACHI MAHANTI] 19:51:19
+Uh, statement.
+
+[SABYASACHI MAHANTI] 19:51:22
+Documented information shall be available to the extent necessary,
+
+[SABYASACHI MAHANTI] 19:51:26
+To have confidence that the processes have been carried out as planned.
+
+[SABYASACHI MAHANTI] 19:51:33
+You know what it means? Let's take an example.
+
+[SABYASACHI MAHANTI] 19:51:37
+Right. You say…
+
+[SABYASACHI MAHANTI] 19:51:39
+you know what? I do disposal of media by ensuring that I do all kinds of, you know, industries, best practices with respect to
+
+[SABYASACHI MAHANTI] 19:51:49
+The formatting the hard disk, and all that, right?
+
+[SABYASACHI MAHANTI] 19:51:52
+And, um… then I generate a certificate, and then I…
+
+[SABYASACHI MAHANTI] 19:51:57
+sort of, uh, make it ready for dispose.
+
+[SABYASACHI MAHANTI] 19:52:01
+disposal.
+
+[SABYASACHI MAHANTI] 19:52:03
+Or you may say, look, I don't do any one of this, but I physically destroy the hard disk.
+
+[SABYASACHI MAHANTI] 19:52:07
+Right? Uh, to ensure that…
+
+[SABYASACHI MAHANTI] 19:52:10
+There is no data can be returned.
+
+[SABYASACHI MAHANTI] 19:52:13
+But, um, I asked you to show
+
+[SABYASACHI MAHANTI] 19:52:17
+Uh, for a particular, uh, batch of disposal, let's say in the first case, right, where you say, I have formatted and things like that,
+
+[SABYASACHI MAHANTI] 19:52:25
+And you are not able to show me any evidences.
+
+[SABYASACHI MAHANTI] 19:52:28
+So you say, yes, I did it, before I disposed it off.
+
+[SABYASACHI MAHANTI] 19:52:32
+Will that give me, as an auditor, the confidence that you have actually formatted it?
+
+[SABYASACHI MAHANTI] 19:52:38
+So, simple example, correct?
+
+[SABYASACHI MAHANTI] 19:52:45
+The extent that it is necessary to have confidence that the processes have been carried out as planned. So, remember, that's the requirement, right?
+
+[SABYASACHI MAHANTI] 19:52:52
+So, whenever you think,
+
+[SABYASACHI MAHANTI] 19:52:54
+So there… there are situations, multiple situations like this, right?
+
+[SABYASACHI MAHANTI] 19:52:58
+Uh, your organization says that, you know, the… before we move out an IT asset from the office,
+
+[SABYASACHI MAHANTI] 19:53:06
+Right? To another location or outside of the location, right? We would require to do a due diligence to ensure that there is no confidential data is going out.
+
+[SABYASACHI MAHANTI] 19:53:17
+Right? But…
+
+[SABYASACHI MAHANTI] 19:53:20
+I don't see any due diligence done by the IT, or maybe not put a signature somewhere, or not filled a form, or not sent an email saying that I've verified this device and ensured that.
+
+[SABYASACHI MAHANTI] 19:53:30
+There is no confidential information that is not encrypted going out.
+
+[SABYASACHI MAHANTI] 19:53:35
+How do I believe in… how do I get the confidence
+
+[SABYASACHI MAHANTI] 19:53:39
+that every material that has gone out, you have done this.
+
+[SABYASACHI MAHANTI] 19:53:42
+So these are all examples, right? And this is where your…
+
+[SABYASACHI MAHANTI] 19:53:47
+experience as an auditor or an implementer, correct?
+
+[SABYASACHI MAHANTI] 19:53:50
+You need to guide the organization as an implementer, and as an auditor, you need to take a call. That is it necessary?
+
+[SABYASACHI MAHANTI] 19:53:58
+What if, uh, the control not followed? What is the impact to the organization?
+
+[SABYASACHI MAHANTI] 19:54:04
+Right? So that will give you some answers. So, documented information is, again, a very…
+
+[SABYASACHI MAHANTI] 19:54:11
+Um…
+
+[SABYASACHI MAHANTI] 19:54:12
+you know, tricky area, but the standard has given you…
+
+[SABYASACHI MAHANTI] 19:54:15
+Uh, you know, some idea, uh, about it.
+
+[SABYASACHI MAHANTI] 19:54:19
+But of course, there are certain, uh, you know, as you know, every management system has got something called a
+
+[SABYASACHI MAHANTI] 19:54:26
+Minimum requirement of documentation, and we have an activity that we'll do sometime maybe tomorrow, or…
+
+[SABYASACHI MAHANTI] 19:54:31
+So, right? So, uh, mark this in clause 8, like, as I said, that this is what it says.
+
+[SABYASACHI MAHANTI] 19:54:38
+So, if you are in a controversial situation, maybe refer to this.
+
+[SABYASACHI MAHANTI] 19:54:44
+Right? That'll be helpful.
+
+[SABYASACHI MAHANTI] 19:54:48
+Okay, but again, 7.5.1 is simple, it's all about how you want to manage your documented system, what format, what kind of…
+
+[SABYASACHI MAHANTI] 19:54:57
+you know, policies you want to have.
+
+[SABYASACHI MAHANTI] 19:55:00
+At the end of the day, it must be, you know, reviewed for suitability, adequate CA, right? At all… at any point in time, your documented management system must reflect the reality.
+
+[SABYASACHI MAHANTI] 19:55:12
+Right? I have seen organizations where they have a strict policy, once in a year review of the…
+
+[SABYASACHI MAHANTI] 19:55:19
+the management system. How is that possible?
+
+[SABYASACHI MAHANTI] 19:55:22
+If the… if there is a change in the context and you lost a customer, acquired a customer, or you acquired a new technology, you have changed your office, you have…
+
+[SABYASACHI MAHANTI] 19:55:31
+been, uh…
+
+[SABYASACHI MAHANTI] 19:55:33
+Bought by another company,
+
+[SABYASACHI MAHANTI] 19:55:35
+How is your document still valid, uh, still relevant? So…
+
+[SABYASACHI MAHANTI] 19:55:39
+Here again, if there is a change in the context, you are supposed to
+
+[SABYASACHI MAHANTI] 19:55:44
+review your documented policies and procedures. That's a requirement.
+
+[SABYASACHI MAHANTI] 19:55:48
+Right? So, clause 7, I think, uh…
+
+[SABYASACHI MAHANTI] 19:55:55
+I will probably take you through the 8, 9, and 10 tomorrow.
+
+[SABYASACHI MAHANTI] 19:56:02
+Right? Um, try and go through, uh, till 7.
+
+[SABYASACHI MAHANTI] 19:56:07
+Just once, just running through, right? Not too much of academically stressing your brain as much, right? But just go through once,
+
+[SABYASACHI MAHANTI] 19:56:16
+The standard 42K, right?
+
+[SABYASACHI MAHANTI] 19:56:19
+Uh, we will discuss about all aspects, as I said, in
+
+[SABYASACHI MAHANTI] 19:56:24
+5 long days that you have, right?
+
+[SABYASACHI MAHANTI] 19:56:27
+Uh, but this is important that we understand the requirements first very clearly.
+
+[SABYASACHI MAHANTI] 19:56:32
+And also, as I, uh, as I've…
+
+[SABYASACHI MAHANTI] 19:56:35
+But on this deal that once you know this clause 4 to 10, this is…
+
+[SABYASACHI MAHANTI] 19:56:40
+More or less, you know about any ISO for that matter. You will be able to then correlate quickly.
+
+[SABYASACHI MAHANTI] 19:56:46
+Uh, for sure.
+
+[SABYASACHI MAHANTI] 19:56:48
+Right? Um, so I stop here, uh, and…
+
+[SABYASACHI MAHANTI] 19:56:55
+tell me if you have any questions, clarifications, any doubt, anything that you want to share.
+
+[SABYASACHI MAHANTI] 19:57:01
+So far, what we have discussed.
+
+[SABYASACHI MAHANTI] 19:57:05
+Before we close for the day.
+
+[SABYASACHI MAHANTI] 19:57:10
+Today, too much of reading, right? Too many… too much of…
+
+[SABYASACHI MAHANTI] 19:57:13
+Information from all over the places.
+
+[SABYASACHI MAHANTI] 19:57:16
+And this is how it is designed.
+
+[SABYASACHI MAHANTI] 19:57:21
+We'll do it.
+
+[SABYASACHI MAHANTI] 19:57:22
+Next couple of days, we'll have only the activities. So, from that day… usually from the day 3, right, we will have, or the second half of the day, we'll have…
+
+[SABYASACHI MAHANTI] 19:57:31
+All the activities that chronologically, right from the clause 4 to the Clause 10.
+
+[SABYASACHI MAHANTI] 19:57:37
+And in the last days module, if you have already seen the training material, you will see a lot of management concepts, right? So, we're…
+
+[SABYASACHI MAHANTI] 19:57:44
+We may have to spend time, but not as much as in the standard, because they talk about
+
+[SABYASACHI MAHANTI] 19:57:50
+Uh, change management, a lot of your…
+
+[SABYASACHI MAHANTI] 19:57:52
+Uh, what do you call, uh, your corporate would have given you all those training, or probably in your…
+
+[SABYASACHI MAHANTI] 19:57:59
+as, you know, a college education days, you would have…
+
+[SABYASACHI MAHANTI] 19:58:02
+Like the…
+
+[SABYASACHI MAHANTI] 19:58:04
+a fishbone diagram, Ishikawa, and things like that, they are all part of…
+
+[SABYASACHI MAHANTI] 19:58:10
+or curriculum, probably, at various points in time, right? It also talks about…
+
+[SABYASACHI MAHANTI] 19:58:15
+Delegations, talks about what are the success criterias could be, what you should be looking at as an implementer.
+
+[SABYASACHI MAHANTI] 19:58:22
+as a profession in terms of making your implementation successful, right? So how do I look at organizational behavior?
+
+[SABYASACHI MAHANTI] 19:58:30
+Uh, and changes and things like that. So we'll… we'll have to spend time on the last day.
+
+[SABYASACHI MAHANTI] 19:58:36
+For sure, right?
+
+[SABYASACHI MAHANTI] 19:58:38
+Okay, so…
+
+[SABYASACHI MAHANTI] 19:58:43
+That's all from my side today.
+
+[SABYASACHI MAHANTI] 19:58:46
+Any questions?
+
+[SABYASACHI MAHANTI] 19:58:48
+Anything you want to discuss?
+
+[venugopal] 19:58:52
+No questions. Just a quick check now for my exam standpoint.
+
+[venugopal] 19:59:00
+Anything specific or important that you think we should be more focused on, or in general, everything is important?
+
+[Unnikrishnan G] 19:59:06
+Okay. No, you look at it.
+
+[Unnikrishnan G] 19:59:11
+But depending on your coupling after that.
+
+[SABYASACHI MAHANTI] 19:59:13
+You are saying any, uh, any specific areas where you need to focus on, is it?
+
+[venugopal] 19:59:20
+Yeah.
+
+[SABYASACHI MAHANTI] 19:59:20
+Look, I… I think this MCQ-based exam
+
+[SABYASACHI MAHANTI] 19:59:26
+I crack a joke, right? That you will pass.
+
+[SABYASACHI MAHANTI] 19:59:29
+Unless you work hard to fail.
+
+[SABYASACHI MAHANTI] 19:59:33
+So, if that makes sense, right? No, it is this implementer…
+
+[SABYASACHI MAHANTI] 19:59:38
+Course is not meant for testing your, you know, kind of… but in a lead auditor situation, remember…
+
+[SABYASACHI MAHANTI] 19:59:45
+In a lead auditor, you are… you are a decision maker, right? So, in lead auditor, we cannot allow you to just go away, get away so easily, right?
+
+[SABYASACHI MAHANTI] 19:59:52
+Imagine a situation where there is supposed to be a nonconformity and you don't give a nonconformity. You actually impact the organization, right?
+
+[SABYASACHI MAHANTI] 20:00:00
+You make an impact. So there, the exam, uh, is on your critical thinking and things like that, but in implementer, no, it is…
+
+[SABYASACHI MAHANTI] 20:00:07
+Nothing like that, right?
+
+[SABYASACHI MAHANTI] 20:00:11
+Um, it's all simple concepts and, uh, you know, pretty much whatever we cover in the classroom.
+
+[SABYASACHI MAHANTI] 20:00:18
+should take care of your…
+
+[SABYASACHI MAHANTI] 20:00:21
+exam, for sure. And we have specimen question paper…
+
+[SABYASACHI MAHANTI] 20:00:25
+I have some questions that, uh, I have kind of…
+
+[SABYASACHI MAHANTI] 20:00:30
+compiled. So we'll go through some of those, right?
+
+[SABYASACHI MAHANTI] 20:00:35
+That should take care.
+
+[venugopal] 20:00:38
+Sure. Okay.
+
+[SABYASACHI MAHANTI] 20:00:41
+Anything else? Any other?
+
+[SABYASACHI MAHANTI] 20:00:46
+Points, questions, clarifications?
+
+[SABYASACHI MAHANTI] 20:00:50
+Okay, so thank you all very much for your patience and, uh, your…
+
+[SABYASACHI MAHANTI] 20:00:55
+input and interactions, um, take care, and then tomorrow, we start again at sharp 9.30am in the morning.
+
+[SABYASACHI MAHANTI] 20:01:04
+Right? Follow the same pattern, uh, pretty much. And as I said, tomorrow we should be able to fairly cover the…
+
+[SABYASACHI MAHANTI] 20:01:11
+Clause 4 through 10 is just running through once, right? And then we will…
+
+[SABYASACHI MAHANTI] 20:01:16
+follow the rest of the day's agenda with respect to the activities and things like that.
+
+[SABYASACHI MAHANTI] 20:01:20
+go through once the standard. I wouldn't recommend you to go through anything else, because when it needed to read through the case study, we will
+
+[SABYASACHI MAHANTI] 20:01:28
+give you time to go through those case study samples and things like that.
+
+[SABYASACHI MAHANTI] 20:01:33
+Right? So, thank you once again, and I'll see you tomorrow. Take care. Have a great evening.
+
+[venugopal] 20:01:39
+Sure. Thank you.
+
+[Suparnna R] 20:01:40
+Bye-bye.
+
+[Anish Melbin] 20:01:40
+Okay, thank you. Bye, bye.
+
+[Unnikrishnan G] 20:01:41
+Thank you. Bye, everyone.
+
