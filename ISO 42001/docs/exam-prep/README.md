@@ -12,6 +12,7 @@ This folder contains revision material prepared from the Day 1 to Day 3 training
 6. [Flashcards](06-flashcards.md)
 7. [One-Page Cram Sheet](07-one-page-cram-sheet.md)
 8. [Likely Exam Themes](08-likely-exam-themes.md)
+9. [Print-Friendly Q/A Booklet](09-print-friendly-qa-booklet.md)
 
 ## How to Use
 
@@ -24,6 +25,7 @@ This folder contains revision material prepared from the Day 1 to Day 3 training
 
 This pack is based on the current available material: Day 1 Session 3 and 4, Day 2, and Day 3.
 Day 4 and Day 5 can be added later as a second revision pass.
+
 
 
 
